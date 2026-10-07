@@ -1,0 +1,33 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  offline-tests:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.11", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Offline tests
+        run: python -m unittest discover tests -v
+      - name: Published numbers reproduce
+        run: |
+          python summary_items.py score final_fr mini5k mini5s | tee out_fr.txt
+          grep -q "key points kept 56/65" out_fr.txt
+          python summary_items.py score final mini5k mini5s | tee out_s.txt
+          grep -q "key points kept 40/65" out_s.txt
+          grep -q "unfaithful summaries 12/23" out_s.txt
+      - name: Replay page rebuilds identically
+        run: |
+          python viz.py
+          git diff --exit-code -- viz/replay.html

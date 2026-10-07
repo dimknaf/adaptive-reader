@@ -1,0 +1,22 @@
+[
+ {
+  "id": "mini5s-r1",
+  "type": "explain",
+  "question": "Explain why Analog Devices' net income in fiscal 2024 (year ended November 2, 2024) was about half of fiscal 2023's. Say which items drove the decline, which partly offset it, and anything about the fiscal 2024 period that affects the comparison."
+ },
+ {
+  "id": "mini5s-r2",
+  "type": "gather",
+  "question": "Collect everything the excerpt reports about Analog Devices' debt and borrowing in fiscal 2024 compared with fiscal 2023: debt balances, new borrowing and repayments, commercial paper activity, and interest cost."
+ },
+ {
+  "id": "mini5s-r3",
+  "type": "assess",
+  "question": "How well did cash from Analog Devices' own operations, after capital spending, cover its dividends and share repurchases in fiscal 2024, and how does that compare with fiscal 2023? Say how any shortfall or surplus showed up in its cash and borrowing."
+ },
+ {
+  "id": "mini5s-r4",
+  "type": "not_covered",
+  "question": "How was Analog Devices' fiscal 2024 revenue split across its Industrial, Automotive, Communications and Consumer end markets, and which of these markets fell the most compared with fiscal 2023?"
+ }
+]

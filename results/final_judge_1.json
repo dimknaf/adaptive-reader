@@ -1,0 +1,148 @@
+{
+  "final|mini5k|mini5k-r1|1.1": {
+    "faithful": true,
+    "preserved": [
+      "Net income fell 51%, from $3,314.6M to $1,635.3M. Diluted EPS fell from $6.55 to $3.28 and net income as a share of revenue fell from 26.9% to 17.3%. The filing attributes the drop to a $1,790.3M fall in operating income and a $40.3M rise in nonoperating expense, partly offset by a $151.4M lower tax provision.",
+      "Revenue fell 23%, from $12,305.5M to $9,427.2M, mainly because of weaker macroeconomic trends. The drop was sharpest in Industrial (-35%), where customers cut their inventory, and in Communications (-33%), because of the timing of infrastructure deployment. Automotive (-2%) and Consumer (-1%) fell less as reduced consumer spending weakened demand. Revenue fell in every region.",
+      "Gross margin fell $2,495.9M (32%). Gross margin % dropped 690 bp, from 64.0% to 57.1%, mainly because of lower factory utilization as customer demand fell, plus an unfavorable product mix.",
+      "Lower operating expenses partly offset the gross margin loss: SMG&A fell $204.9M (lower variable compensation, salary and benefits, and discretionary spending), amortization fell $204.8M (some acquired intangibles became fully amortized in 2023), R&D fell $172.3M (lower variable compensation) and special charges fell $123.5M (lower Q4 2023 Plan charges). The extra week in 53-week fiscal 2024 partly offset these cuts. Operating income still fell $1,790.3M (47%), and operating margin went from 31.1% to 21.6%.",
+      "Net income fell 51% from $3,314.6M to $1,635.3M (diluted EPS $6.55 to $3.28; net margin 26.9% to 17.3%) on a 23% revenue decline from $12,305.5M to $9,427.2M",
+      "Gross margin fell 690 bps to 57.1% from 64.0% (gross margin dollars down $2,495.9M, -32%) because of lower factory utilization from weaker demand and an unfavorable product mix",
+      "Lower operating expenses partly offset the decline: SMG&A down $204.9M, amortization down $204.8M (intangibles fully amortized in FY2023), R&D down $172.3M (lower variable compensation) and special charges down $123.5M, even with an extra week in FY2024. Operating income still fell $1,790.3M (-47%) to $2,032.8M"
+    ],
+    "issues": "Faithful. Keeps what this piece contributes to each point (net income -51%, EPS, revenue -23%, gross margin % 64.0 to 57.1, the 53-week year) but omits net income as a % of revenue (26.9% to 17.3%) and the revenue dollar amounts; the note is cut off mid-sentence."
+  },
+  "final|mini5k|mini5k-r1|1.2": {
+    "faithful": true,
+    "preserved": [
+      "Revenue fell 23%, from $12,305.5M to $9,427.2M, mainly because of weaker macroeconomic trends. The drop was sharpest in Industrial (-35%), where customers cut their inventory, and in Communications (-33%), because of the timing of infrastructure deployment. Automotive (-2%) and Consumer (-1%) fell less as reduced consumer spending weakened demand. Revenue fell in every region.",
+      "Revenue fell mainly because of weaker macroeconomic trends: Industrial down 35% as customers cut their inventory balances, Communications down 33% on the timing of infrastructure deployment cycles, and Automotive (-2%) and Consumer (-1%) down less on weaker consumer spending"
+    ],
+    "issues": "Faithful. Omits end-market dollar amounts and share-of-revenue shifts (e.g., Industrial 54% to 46%)."
+  },
+  "final|mini5k|mini5k-r1|1.5": {
+    "faithful": true,
+    "preserved": [
+      "Gross margin fell $2,495.9M (32%). Gross margin % dropped 690 bp, from 64.0% to 57.1%, mainly because of lower factory utilization as customer demand fell, plus an unfavorable product mix.",
+      "Gross margin fell 690 bps to 57.1% from 64.0% (gross margin dollars down $2,495.9M, -32%) because of lower factory utilization from weaker demand and an unfavorable product mix"
+    ],
+    "issues": "Faithful. Omits the R&D decrease ($172.3M, lower variable compensation) and SMG&A decrease ($204.9M, lower compensation and discretionary spending), both partly offset by the extra week, which are the operating-expense offsets the task asks for."
+  },
+  "final|mini5k|mini5k-r1|1.6": {
+    "faithful": true,
+    "preserved": [],
+    "issues": "Faithful but truncated: keeps amortization (-$204.8M, intangibles fully amortized) and special charges (-$123.5M) but drops the Q4 2023 Plan reason and, most importantly, the operating income fall of $1,790.3M (47%) to $2,032.8M, the 31.1% to 21.6% operating margin, and the summary that the $2,495.9M gross margin drop was only partly offset by lower SMG&A, amortization, R&D and special charges."
+  },
+  "final|mini5k|mini5k-r1|1.9": {
+    "faithful": false,
+    "preserved": [],
+    "issues": "Unfaithful: the '$1.1 billion' decrease is not in the piece (it gives no investing cash amounts), and 'investing cash flow decreased' misstates what fell (cash used for investing). Financing and working-capital content is omitted."
+  },
+  "final|mini5k|mini5k-r2|1.1": {
+    "faithful": true,
+    "preserved": [],
+    "issues": "Faithful, but it only restates fiscal-year dates and the 53-week period; omits the gross margin % drop from 64.0% to 57.1% and the revenue/net income declines."
+  },
+  "final|mini5k|mini5k-r2|1.2": {
+    "faithful": true,
+    "preserved": [
+      "Customers' inventory behavior: in the Industrial end market, customers reduced their inventory balances. This was a main driver of Industrial's 35% revenue drop and of the 23% fall in total revenue"
+    ],
+    "issues": "Faithful. Keeps that Industrial customers cut inventory balances as a driver of the 23% revenue decline, but omits Industrial's 35% drop ($6,611.8M to $4,314.3M), its share fall from 54% to 46%, and the other end-market percentages."
+  },
+  "final|mini5k|mini5k-r2|1.3": {
+    "faithful": false,
+    "preserved": [],
+    "issues": "Unfaithful: the note is copied from the end-market section; the 23% figure, weaker macro trends, customer inventory cuts, infrastructure timing and consumer spending are not in this sales-channel piece. It omits the piece's actual content: distributor revenue fell from $7,534.9M to $5,505.8M and its share from 61% to 58% because of the Industrial decline."
+  },
+  "final|mini5k|mini5k-r2|1.5": {
+    "faithful": true,
+    "preserved": [
+      "Factory utilization: gross margin % fell 690 bp, from 64.0% to 57.1%, and gross margin fell $2,495.9M. The main causes were lower factory utilization as customer demand fell, plus an unfavorable product mix.",
+      "Lower factory utilization from weaker customer demand, together with unfavorable mix, cut gross margin by 690 bps to 57.1% from 64.0%"
+    ],
+    "issues": "Faithful. Omits the explicit gross margin % levels (64.0% to 57.1%), giving only the 690 bp change."
+  },
+  "final|mini5k|mini5k-r2|1.8": {
+    "faithful": false,
+    "preserved": [],
+    "issues": "Unfaithful: the fiscal 2023 end date (October 28, 2023), the 53-week period and the Q1 ended February 3, 2024 are not in this piece. Keeps operating cash flow figures but omits why it fell (lower net income adjusted for noncash items, partly offset by working capital changes)."
+  },
+  "final|mini5k|mini5k-r3|1.1": {
+    "faithful": true,
+    "preserved": [
+      "Signs of pressure: revenue fell 23% and net income fell 51%. Nonoperating expense rose because of higher interest expense on debt obligations, partly offset by higher interest income.",
+      "Signs of pressure: revenue fell 23% and net income 51%, operating cash flow dropped about $965M, and interest expense on debt was higher. Days sales outstanding rose to 54 from 48 and days of inventory rose to 139 from 125, although receivables (-9%) and inventory (-12%) both fell in dollars"
+    ],
+    "issues": "Faithful. Omits dollar amounts, the gross margin % drop (64.0% to 57.1%) and the net margin drop (26.9% to 17.3%)."
+  },
+  "final|mini5k|mini5k-r3|1.8": {
+    "faithful": false,
+    "preserved": [
+      "Management believes existing liquidity, future operating cash and available financing will cover operations, capex, R&D and dividends for at least the next twelve months.",
+      "Management believes its existing liquidity, future operating cash and available financing will cover operations, capex, R&D and dividends for at least the next twelve months"
+    ],
+    "issues": "Unfaithful: calls the operating cash decline 'slight' though it fell about $965M (~20%), and lists 'financing needs' as something cash will fund, whereas the piece names available financing as a source. Omits the $1.3B held in the US, OCF rising to 41% of revenue from 39%, the reason for the OCF decline, and the investing ($1,104.9M vs $1,266.4M) and financing ($1,714.4M vs $4,063.8M) outflows."
+  },
+  "final|mini5k|mini5k-r3|1.9": {
+    "faithful": true,
+    "preserved": [],
+    "issues": "Faithful (near-verbatim on investing). Omits the lower financing outflow from lower buybacks, receivables -9% and inventory -12% with DSO rising 48 to 54 and inventory days 125 to 139, and current liabilities falling to $3.0B from $3.2B."
+  },
+  "final|mini5s|mini5s-r1|1.1": {
+    "faithful": false,
+    "preserved": [
+      "Net income roughly halved: $1,635.3M in fiscal 2024 vs $3,314.6M in fiscal 2023 (down about $1.68B, -50.7%). Diluted EPS went from $6.55 to $3.28, and diluted shares fell slightly from 506.0M to 498.7M.",
+      "Net income fell from $3,314.6M (FY2023) to $1,635.3M (FY2024), down about 51%. Diluted EPS fell from $6.55 to $3.28 and basic EPS from $6.60 to $3.30."
+    ],
+    "issues": "Unfaithful: says cost of sales and operating expenses were 'higher' when both fell ($4,428.3M to $4,045.8M; $4,054.1M to $3,348.5M), reversing the partial offset. Omits gross margin, operating income, the nonoperating expense rise (higher interest expense and Other, net, partly offset by interest income) and the lower tax provision ($293.4M to $142.1M)."
+  },
+  "final|mini5s|mini5s-r1|1.2": {
+    "faithful": false,
+    "preserved": [],
+    "issues": "Unfaithful: revenue, cost of sales and operating expense figures are not in this piece, and calling cost of sales and operating expenses 'higher' reverses their direction. Keeps net income but omits the piece's EPS data (diluted $6.55 to $3.28, basic $6.60 to $3.30) and diluted shares (506.0M to 498.7M)."
+  },
+  "final|mini5s|mini5s-r1|1.3": {
+    "faithful": false,
+    "preserved": [],
+    "issues": "Unfaithful: repeats income-statement figures (revenue, cost of sales, operating expenses, net income) that are not in this balance-sheet piece, and misstates cost of sales and operating expenses as higher. Reports none of the balance-sheet content."
+  },
+  "final|mini5s|mini5s-r1|1.6": {
+    "faithful": false,
+    "preserved": [],
+    "issues": "Unfaithful: revenue, cost of sales and operating expense figures are not in this cash-flow piece; 'higher' reverses their direction, and '$4,428' is 2023 cost of sales, not operating expenses. Omits the fall in total intangibles amortization ($1,958.4M to $1,741.5M)."
+  },
+  "final|mini5s|mini5s-r1|1.8": {
+    "faithful": false,
+    "preserved": [],
+    "issues": "Unfaithful: none of the note's income-statement figures appear in this financing/cash piece, and cost of sales and operating expenses are wrongly called higher. Omits the piece's content (financing outflow $1,714.4M vs $4,063.8M, lower buybacks, cash up to $1,991.3M)."
+  },
+  "final|mini5s|mini5s-r1|1.9": {
+    "faithful": true,
+    "preserved": [
+      "Period effect: fiscal 2024 was a 53-week year, compared with 52 weeks in fiscal 2023. The extra week falls in the first quarter, which ended February 3, 2024. The 2024 figures therefore include one more week of operations, so the like-for-like decline is somewhat larger than reported.",
+      "Period comparability: FY2024 was a 53-week year and FY2023 was a 52-week year. The extra week falls in the first quarter ended February 3, 2024. So FY2024 has one more week of operations, and the decline happened despite that extra week."
+    ],
+    "issues": "Faithful; 'slightly more operations' fairly paraphrases one additional week. Nothing important for the task is missing."
+  },
+  "final|mini5s|mini5s-r2|1.4": {
+    "faithful": false,
+    "preserved": [],
+    "issues": "Unfaithful: debt, commercial paper and long-term debt balances are not in this equity piece, and current debt is said to have 'increased' from $499,052K to $399,636K, which is a decrease. The piece contains no debt data."
+  },
+  "final|mini5s|mini5s-r2|1.7": {
+    "faithful": false,
+    "preserved": [],
+    "issues": "Unfaithful: balance-sheet debt balances are not in this cash-flow piece and current debt is wrongly said to have increased ($499.1M to $399.6M). Omits all of the piece's debt activity: $1,087.9M debt proceeds, $500.0M repayments, $65.7M early termination in FY2023, and commercial paper issued/repaid ($10,184.4M/$10,183.9M in FY2024 vs $5,287.1M/$4,739.9M in FY2023)."
+  },
+  "final|mini5s|mini5s-r2|1.8": {
+    "faithful": false,
+    "preserved": [],
+    "issues": "Unfaithful: the debt and commercial paper balances are not in this piece and current debt is wrongly called an increase. Omits the piece's financing outflow ($1,714.4M vs $4,063.8M) and the cash rise to $1,991.3M from $958.1M."
+  },
+  "final|mini5s|mini5s-r3|1.6": {
+    "faithful": true,
+    "preserved": [],
+    "issues": "Faithful but content-free: it only lists line-item names, with no figures (e.g., net income, amortization, the inventory and receivable cash inflows) needed to assess operating cash generation."
+  }
+}

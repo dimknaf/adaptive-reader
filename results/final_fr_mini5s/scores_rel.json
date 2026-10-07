@@ -1,0 +1,414 @@
+{
+ "separation": {
+  "useful": 0.752,
+  "logodds": null,
+  "yes_or_no": null,
+  "no_or_yes": null
+ },
+ "tasks": [
+  {
+   "id": "mini5s-r1",
+   "covered": true,
+   "kept": [
+    "1.1",
+    "1.8"
+   ],
+   "essential": [
+    "1.1",
+    "1.9"
+   ],
+   "recall_any": 0.5,
+   "recall_both": 0.5,
+   "missed": [
+    "1.9"
+   ],
+   "needless": [
+    "1.8"
+   ],
+   "kept_context": 1072,
+   "essential_tokens": 902,
+   "points_a": 0.833,
+   "points_b": 0.8,
+   "readouts": {
+    "1.1": [
+     true,
+     0.9907,
+     null,
+     null,
+     null
+    ],
+    "1.2": [
+     false,
+     0.6724,
+     null,
+     null,
+     null
+    ],
+    "1.3": [
+     false,
+     0.3998,
+     null,
+     null,
+     null
+    ],
+    "1.4": [
+     false,
+     0.6514,
+     null,
+     null,
+     null
+    ],
+    "1.5": [
+     false,
+     0.4844,
+     null,
+     null,
+     null
+    ],
+    "1.6": [
+     false,
+     0.637,
+     null,
+     null,
+     null
+    ],
+    "1.7": [
+     false,
+     0.5927,
+     null,
+     null,
+     null
+    ],
+    "1.8": [
+     false,
+     0.8129,
+     null,
+     null,
+     null
+    ],
+    "1.9": [
+     true,
+     0.5889,
+     null,
+     null,
+     null
+    ],
+    "1.10": [
+     false,
+     0.5737,
+     null,
+     null,
+     null
+    ]
+   },
+   "answer": "The document does not provide enough detail to explain why Analog Devices' net income in fiscal 2024 was about half of fiscal 2023's, nor does it specify which items drove the decline or any period-specific factors affecting the comparison. The excerpt only shows net income figures ($1,635,273 in fiscal 2024 vs. $3,314,579 in fiscal 2023) without the line-by-line breakdown needed to identify the驱",
+   "cost": {
+    "weighted_per_doc_token": 1.1722,
+    "mismatches": 0,
+    "uncached": 5208,
+    "output": 10
+   }
+  },
+  {
+   "id": "mini5s-r2",
+   "covered": true,
+   "kept": [
+    "1.3",
+    "1.4",
+    "1.6",
+    "1.7",
+    "1.8"
+   ],
+   "essential": [
+    "1.1",
+    "1.3",
+    "1.7"
+   ],
+   "recall_any": 0.667,
+   "recall_both": 0.667,
+   "missed": [
+    "1.1"
+   ],
+   "needless": [
+    "1.4"
+   ],
+   "kept_context": 2528,
+   "essential_tokens": 1445,
+   "points_a": 0.8,
+   "points_b": 0.75,
+   "readouts": {
+    "1.1": [
+     true,
+     0.6926,
+     null,
+     null,
+     null
+    ],
+    "1.2": [
+     false,
+     0.2227,
+     null,
+     null,
+     null
+    ],
+    "1.3": [
+     true,
+     0.9579,
+     null,
+     null,
+     null
+    ],
+    "1.4": [
+     false,
+     0.8991,
+     null,
+     null,
+     null
+    ],
+    "1.5": [
+     false,
+     0.7249,
+     null,
+     null,
+     null
+    ],
+    "1.6": [
+     false,
+     0.8032,
+     null,
+     null,
+     null
+    ],
+    "1.7": [
+     true,
+     0.8418,
+     null,
+     null,
+     null
+    ],
+    "1.8": [
+     false,
+     0.8597,
+     null,
+     null,
+     null
+    ],
+    "1.9": [
+     false,
+     0.6225,
+     null,
+     null,
+     null
+    ],
+    "1.10": [
+     false,
+     0.6654,
+     null,
+     null,
+     null
+    ]
+   },
+   "answer": "The excerpt does not provide a direct statement of Analog Devices' interest cost for fiscal 2024 or fiscal 2023. However, it does report debt and borrowing activity in the consolidated balance sheets and cash flows, which are the relevant figures from the excerpt.\n- Debt balances: Current debt of $399,636 thousand in fiscal 2024 (vs. $499,052 thousand in fiscal 2023); long-term debt of $6,634,313 thousand in fiscal 2024 (vs. $5,902,457 thousand in fiscal 2023).\n- New borrowing and repayments: In fiscal 2024, there was no new borrowing (proceeds from debt were $0); in fiscal 2023, there were no new borrowings (proceeds from debt were $0). Debt repayments were $499,966 thousand in fiscal 2024 and $0 in fiscal 2023.\n- Commercial paper activity: In fiscal 2024, commercial paper notes",
+   "cost": {
+    "weighted_per_doc_token": 1.1651,
+    "mismatches": 0,
+    "uncached": 5176,
+    "output": 10
+   }
+  },
+  {
+   "id": "mini5s-r3",
+   "covered": true,
+   "kept": [
+    "1.6",
+    "1.8"
+   ],
+   "essential": [
+    "1.7",
+    "1.8"
+   ],
+   "recall_any": 0.5,
+   "recall_both": 0.5,
+   "missed": [
+    "1.7"
+   ],
+   "needless": [],
+   "kept_context": 976,
+   "essential_tokens": 841,
+   "points_a": 0.833,
+   "points_b": 0.8,
+   "readouts": {
+    "1.1": [
+     false,
+     0.709,
+     null,
+     null,
+     null
+    ],
+    "1.2": [
+     false,
+     0.3242,
+     null,
+     null,
+     null
+    ],
+    "1.3": [
+     false,
+     0.6039,
+     null,
+     null,
+     null
+    ],
+    "1.4": [
+     false,
+     0.4688,
+     null,
+     null,
+     null
+    ],
+    "1.5": [
+     false,
+     0.6654,
+     null,
+     null,
+     null
+    ],
+    "1.6": [
+     false,
+     0.8333,
+     null,
+     null,
+     null
+    ],
+    "1.7": [
+     true,
+     0.5775,
+     null,
+     null,
+     null
+    ],
+    "1.8": [
+     true,
+     0.9579,
+     null,
+     null,
+     null
+    ],
+    "1.9": [
+     false,
+     0.3208,
+     null,
+     null,
+     null
+    ],
+    "1.10": [
+     false,
+     0.5851,
+     null,
+     null,
+     null
+    ]
+   },
+   "answer": "The document does not provide enough information to answer how well cash from Analog Devices' own operations covered its dividends and share repurchases in fiscal 2024 or compare it to fiscal 2023, nor how any shortfall or surplus showed up in cash and borrowing. The excerpt only includes a consolidated statement of cash flows for fiscal 2024, 2023, and 2022, but does not break out operating cash",
+   "cost": {
+    "weighted_per_doc_token": 1.1686,
+    "mismatches": 0,
+    "uncached": 5192,
+    "output": 10
+   }
+  },
+  {
+   "id": "mini5s-r4",
+   "covered": false,
+   "kept": [],
+   "essential": [],
+   "recall_any": null,
+   "recall_both": null,
+   "missed": [],
+   "needless": [],
+   "kept_context": 0,
+   "essential_tokens": 0,
+   "points_a": null,
+   "points_b": null,
+   "readouts": {
+    "1.1": [
+     false,
+     0.0368,
+     null,
+     null,
+     null
+    ],
+    "1.2": [
+     false,
+     0.0518,
+     null,
+     null,
+     null
+    ],
+    "1.3": [
+     false,
+     0.077,
+     null,
+     null,
+     null
+    ],
+    "1.4": [
+     false,
+     0.0567,
+     null,
+     null,
+     null
+    ],
+    "1.5": [
+     false,
+     0.0827,
+     null,
+     null,
+     null
+    ],
+    "1.6": [
+     false,
+     0.0191,
+     null,
+     null,
+     null
+    ],
+    "1.7": [
+     false,
+     0.0716,
+     null,
+     null,
+     null
+    ],
+    "1.8": [
+     false,
+     0.0851,
+     null,
+     null,
+     null
+    ],
+    "1.9": [
+     false,
+     0.0716,
+     null,
+     null,
+     null
+    ],
+    "1.10": [
+     false,
+     0.0748,
+     null,
+     null,
+     null
+    ]
+   },
+   "answer": "The document does not contain the information needed to answer the question. The provided excerpt only includes a header indicating a filing for Analog Devices' fiscal 2024 results, but no actual data or details about revenue splits across Industrial, Automotive, Communications, and Consumer end markets are present.",
+   "cost": {
+    "weighted_per_doc_token": 1.1651,
+    "mismatches": 0,
+    "uncached": 5176,
+    "output": 10
+   }
+  }
+ ]
+}

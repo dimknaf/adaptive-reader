@@ -1,0 +1,22 @@
+[
+ {
+  "id": "mini3k-q1",
+  "type": "lookup",
+  "question": "What were research and development (R&D) expenses in fiscal 2024 (the fiscal year ended November 2, 2024), in thousands of dollars?"
+ },
+ {
+  "id": "mini3k-q2",
+  "type": "change_and_driver",
+  "question": "By how much did total revenue change from fiscal 2023 to fiscal 2024, in thousands of dollars and in percent, and what reasons does the company give for the change?"
+ },
+ {
+  "id": "mini3k-q3",
+  "type": "list",
+  "question": "Which operating expense line items (the items between gross margin and operating income) decreased in fiscal 2024 compared with fiscal 2023, and by how much did each decrease, in thousands of dollars and in percent?"
+ },
+ {
+  "id": "mini3k-q4",
+  "type": "not_in_text",
+  "question": "What was the company's net cash provided by operating activities in fiscal 2024, in thousands of dollars?"
+ }
+]

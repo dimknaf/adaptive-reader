@@ -1,0 +1,125 @@
+{
+ "answers": [
+  {
+   "id": "mini5k-q1",
+   "answerable": true,
+   "answer": "$3,852,529 thousand (about $3.85 billion)",
+   "facts": [
+    {
+     "fact": "Net cash provided by operating activities, fiscal 2024: $3,852,529",
+     "locations": [
+      {
+       "anchor": "1.8",
+       "quote": "| Net cash provided by operating activities | $ 3,852,529 | $ 4,817,634 |"
+      }
+     ]
+    },
+    {
+     "fact": "Unit/scale line: tabular amounts are in thousands",
+     "locations": [
+      {
+       "anchor": "1.1",
+       "quote": "(all tabular amounts in thousands except per share amounts)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mini5k-q2",
+   "answerable": true,
+   "answer": "Gross margin percentage fell 690 basis points (from 64.0% in fiscal 2023 to 57.1% in fiscal 2024), mainly because of lower factory utilization due to decreased customer demand and an unfavorable product mix.",
+   "facts": [
+    {
+     "fact": "Gross margin percentage decreased by 690 basis points in fiscal 2024 vs fiscal 2023",
+     "locations": [
+      {
+       "anchor": "1.5",
+       "quote": "Gross margin percentage in fiscal 2024 decreased by 690 basis points compared to fiscal 2023"
+      }
+     ]
+    },
+    {
+     "fact": "Gross margin %: 57.1% fiscal 2024 vs 64.0% fiscal 2023",
+     "locations": [
+      {
+       "anchor": "1.1",
+       "quote": "| Gross margin% | 57.1% | 64.0% | | |"
+      },
+      {
+       "anchor": "1.5",
+       "quote": "| Gross margin% | 57.1% | 64.0% | | |"
+      }
+     ]
+    },
+    {
+     "fact": "Reason: lower utilization of factories due to decreased customer demand",
+     "locations": [
+      {
+       "anchor": "1.5",
+       "quote": "primarily due to lower utilization of our factories due to decreased customer demand"
+      }
+     ]
+    },
+    {
+     "fact": "Reason: unfavorable product mix",
+     "locations": [
+      {
+       "anchor": "1.5",
+       "quote": "and unfavorable product mix"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mini5k-q3",
+   "answerable": true,
+   "answer": "All four end markets declined: Industrial (35)%, Communications (33)%, Automotive (2)%, Consumer (1)%.",
+   "facts": [
+    {
+     "fact": "Industrial revenue Y/Y change fiscal 2024: (35)% ($4,314,280 vs $6,611,794)",
+     "locations": [
+      {
+       "anchor": "1.2",
+       "quote": "| Industrial | $ 4,314,280 | 46% | (35)% | $ 6,611,794 | 54% |"
+      }
+     ]
+    },
+    {
+     "fact": "Automotive revenue Y/Y change fiscal 2024: (2)% (2,827,439 vs 2,876,140)",
+     "locations": [
+      {
+       "anchor": "1.2",
+       "quote": "| Automotive | 2,827,439 | 30% | (2)% | 2,876,140 | 23% |"
+      }
+     ]
+    },
+    {
+     "fact": "Communications revenue Y/Y change fiscal 2024: (33)% (1,080,496 vs 1,606,426)",
+     "locations": [
+      {
+       "anchor": "1.2",
+       "quote": "| Communications | 1,080,496 | 11% | (33)% | 1,606,426 | 13% |"
+      }
+     ]
+    },
+    {
+     "fact": "Consumer revenue Y/Y change fiscal 2024: (1)% (1,204,942 vs 1,211,179)",
+     "locations": [
+      {
+       "anchor": "1.2",
+       "quote": "| Consumer | 1,204,942 | 13% | (1)% | 1,211,179 | 10% |"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mini5k-q4",
+   "answerable": false,
+   "answer": "not stated",
+   "facts": []
+  }
+ ]
+}

@@ -1,0 +1,229 @@
+{
+ "answers": [
+  {
+   "id": "mini20k-q1",
+   "answerable": true,
+   "answer": "$322,227 thousand (interest expense, fiscal 2024)",
+   "facts": [
+    {
+     "fact": "Interest expense for fiscal 2024 (year ended November 2, 2024) was 322,227",
+     "locations": [
+      {
+       "anchor": "1.26",
+       "quote": "| Interest expense | 322,227 | 264,641 | 200,408 |"
+      }
+     ]
+    },
+    {
+     "fact": "Income statement amounts are in thousands",
+     "locations": [
+      {
+       "anchor": "1.26",
+       "quote": "| (thousands, except per share amounts) | 2024 | 2023 | 2022 |"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mini20k-q2",
+   "answerable": true,
+   "answer": "Gross margin percentage fell by 690 basis points (from 64.0% in fiscal 2023 to 57.1% in fiscal 2024), primarily due to lower utilization of factories due to decreased customer demand and unfavorable product mix.",
+   "facts": [
+    {
+     "fact": "Gross margin % fiscal 2024 = 57.1%, fiscal 2023 = 64.0%",
+     "locations": [
+      {
+       "anchor": "1.1",
+       "quote": "| Gross margin% | 57.1% | 64.0% | | |"
+      },
+      {
+       "anchor": "1.5",
+       "quote": "| Gross margin% | 57.1% | 64.0% | | |"
+      }
+     ]
+    },
+    {
+     "fact": "Gross margin percentage decreased by 690 basis points in fiscal 2024 vs fiscal 2023",
+     "locations": [
+      {
+       "anchor": "1.5",
+       "quote": "Gross margin percentage in fiscal 2024 decreased by 690 basis points compared to fiscal 2023"
+      }
+     ]
+    },
+    {
+     "fact": "Stated reasons: lower factory utilization due to decreased customer demand, and unfavorable product mix",
+     "locations": [
+      {
+       "anchor": "1.5",
+       "quote": "primarily due to lower utilization of our factories due to decreased customer demand and unfavorable product mix"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mini20k-q3",
+   "answerable": true,
+   "answer": "Industrial $4,314,280; Automotive $2,827,439; Communications $1,080,496; Consumer $1,204,942 (thousands, fiscal 2024)",
+   "facts": [
+    {
+     "fact": "The four end markets are Industrial, Automotive, Communications and Consumer",
+     "locations": [
+      {
+       "anchor": "1.2",
+       "quote": "The following table summarizes revenue by end market."
+      },
+      {
+       "anchor": "1.33",
+       "quote": "end markets of Industrial, Automotive and Communications and related applications, as well as Consumer applications"
+      }
+     ]
+    },
+    {
+     "fact": "Industrial revenue fiscal 2024 = $4,314,280",
+     "locations": [
+      {
+       "anchor": "1.2",
+       "quote": "| Industrial | $ 4,314,280 | 46% | (35)% |"
+      }
+     ]
+    },
+    {
+     "fact": "Automotive revenue fiscal 2024 = 2,827,439",
+     "locations": [
+      {
+       "anchor": "1.2",
+       "quote": "| Automotive | 2,827,439 | 30% | (2)% |"
+      }
+     ]
+    },
+    {
+     "fact": "Communications revenue fiscal 2024 = 1,080,496",
+     "locations": [
+      {
+       "anchor": "1.2",
+       "quote": "| Communications | 1,080,496 | 11% | (33)% |"
+      }
+     ]
+    },
+    {
+     "fact": "Consumer revenue fiscal 2024 = 1,204,942",
+     "locations": [
+      {
+       "anchor": "1.2",
+       "quote": "| Consumer | 1,204,942 | 13% | (1)% |"
+      }
+     ]
+    },
+    {
+     "fact": "MD&A tabular amounts are in thousands",
+     "locations": [
+      {
+       "anchor": "1.1",
+       "quote": "(all tabular amounts in thousands except per share amounts)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mini20k-q4",
+   "answerable": true,
+   "answer": "Approximately $7.0 billion carrying value of senior notes; made up of Debt, current $399,636 thousand plus Long-term debt $6,634,313 thousand (total $7,033,949 thousand).",
+   "facts": [
+    {
+     "fact": "MD&A: approximately $7.0 billion carrying value outstanding on senior notes as of November 2, 2024",
+     "locations": [
+      {
+       "anchor": "1.10",
+       "quote": "As of November 2, 2024, we had approximately $7.0 billion of carrying value outstanding on our senior notes."
+      }
+     ]
+    },
+    {
+     "fact": "Balance sheet Debt, current at November 2, 2024 = 399,636",
+     "locations": [
+      {
+       "anchor": "1.28",
+       "quote": "| Debt, current | 399,636 | 499,052 |"
+      }
+     ]
+    },
+    {
+     "fact": "Balance sheet Long-term debt at November 2, 2024 = 6,634,313",
+     "locations": [
+      {
+       "anchor": "1.28",
+       "quote": "| Long-term debt | 6,634,313 | 5,902,457 |"
+      }
+     ]
+    },
+    {
+     "fact": "Balance sheet amounts are in thousands",
+     "locations": [
+      {
+       "anchor": "1.28",
+       "quote": "| (thousands, except per share amounts) | 2024 | 2023 |"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mini20k-q5",
+   "answerable": true,
+   "answer": "Capital grants for acquiring PP&E are netted against the related capital expenditures and amortized as a credit to depreciation expense over the estimated useful life of the related asset; employment grants (hiring and training) and R&D grants are instead recognized in earnings in the period in which the related expenditures are incurred.",
+   "facts": [
+    {
+     "fact": "Capital grants for PP&E are netted against related capital expenditures and amortized as a credit to depreciation expense over the asset's estimated useful life",
+     "locations": [
+      {
+       "anchor": "1.41",
+       "quote": "Capital grants for the acquisition of property, plant and equipment are netted against the related capital expenditures and amortized as a credit to depreciation expense over the estimated useful life of the related asset."
+      }
+     ]
+    },
+    {
+     "fact": "Employment grants (employee hiring and training) and R&D grants are recognized in earnings in the period the related expenditures are incurred",
+     "locations": [
+      {
+       "anchor": "1.41",
+       "quote": "Employment grants, which relate to employee hiring and training, and research and development grants are recognized in earnings in the period in which the related expenditures are incurred by the Company."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mini20k-q6",
+   "answerable": false,
+   "answer": "not stated",
+   "facts": [
+    {
+     "fact": "Only the total special charges, net for fiscal 2024 is given (37,258 thousand); no severance/fringe benefit breakdown under the Q4 2023 Plan appears in the excerpt",
+     "locations": [
+      {
+       "anchor": "1.6",
+       "quote": "| Special charges, net | $ 37,258 | 160,710 | $ (123,452) | (77)% |"
+      },
+      {
+       "anchor": "1.26",
+       "quote": "| Special charges, net | 37,258 | 160,710 | 274,509 |"
+      }
+     ]
+    },
+    {
+     "fact": "The MD&A refers to Note 5 (not included in the excerpt) for details of the Q4 2023 Plan charges",
+     "locations": [
+      {
+       "anchor": "1.6",
+       "quote": "primarily due to decreased charges related to our Q4 2023 Plan. See Note 5, Special Charges, Net"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

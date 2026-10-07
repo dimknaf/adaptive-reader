@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# local settings and editors
+.env
+.env.*
+.vscode/
+.idea/
+
+# run outputs that are not published
+*.log
+results/web_*/
+
+# source filings (not redistributed; see data/README.md)
+sources/

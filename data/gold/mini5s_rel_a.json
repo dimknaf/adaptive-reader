@@ -1,0 +1,309 @@
+{
+ "answers": [
+  {
+   "id": "mini5s-r1",
+   "covered": true,
+   "key_points": [
+    {
+     "point": "Net income roughly halved: $1,635.3M in fiscal 2024 vs $3,314.6M in fiscal 2023 (down about $1.68B, -50.7%). Diluted EPS went from $6.55 to $3.28, and diluted shares fell slightly from 506.0M to 498.7M.",
+     "anchors": [
+      "1.1",
+      "1.2"
+     ]
+    },
+    {
+     "point": "Main driver: revenue fell about 23%, from $12,305.5M to $9,427.2M, while cost of sales fell only $383M ($4,428.3M to $4,045.8M). Gross margin therefore dropped about $2.5B ($7,877.2M to $5,381.3M), and the margin rate fell from about 64% to about 57%.",
+     "anchors": [
+      "1.1"
+     ]
+    },
+    {
+     "point": "Partial offset from lower operating expenses, down about $706M in total ($4,054.1M to $3,348.5M): R&D -$172M, SMG&A -$205M, amortization of intangibles -$205M and special charges -$123M ($160.7M to $37.3M). Total amortization, including the part in cost of sales, also fell ($1,958.4M to $1,741.5M). Operating income still fell by $1.79B, from $3,823.1M to $2,032.8M.",
+     "anchors": [
+      "1.1",
+      "1.6"
+     ]
+    },
+    {
+     "point": "Nonoperating items added to the decline. Interest expense rose from $264.6M to $322.2M and Other, net swung from $8.2M of income to $12.0M of expense. Higher interest income ($41.3M to $78.8M) partly offset this. Net nonoperating expense rose about $40M, to $255.5M.",
+     "anchors": [
+      "1.1"
+     ]
+    },
+    {
+     "point": "A lower tax provision partly offset the decline: $142.1M vs $293.4M. Pre-tax income fell from $3,608.0M to $1,777.3M, and the effective rate stayed about 8% in both years.",
+     "anchors": [
+      "1.1"
+     ]
+    },
+    {
+     "point": "Period effect: fiscal 2024 was a 53-week year, compared with 52 weeks in fiscal 2023. The extra week falls in the first quarter, which ended February 3, 2024. The 2024 figures therefore include one more week of operations, so the like-for-like decline is somewhat larger than reported.",
+     "anchors": [
+      "1.9"
+     ]
+    }
+   ],
+   "pieces": [
+    {
+     "anchor": "1.1",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.2",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.3",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.4",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.5",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.6",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.7",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.8",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.9",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.10",
+     "label": "not_relevant"
+    }
+   ]
+  },
+  {
+   "id": "mini5s-r2",
+   "covered": true,
+   "key_points": [
+    {
+     "point": "Debt balances at year end, 2024 vs 2023: long-term debt $6,634.3M vs $5,902.5M, current debt $399.6M vs $499.1M, and commercial paper notes $547.7M vs $547.2M. Total debt was about $7.58B vs about $6.95B, up about $0.63B.",
+     "anchors": [
+      "1.3"
+     ]
+    },
+    {
+     "point": "New borrowing and repayments: in fiscal 2024, proceeds from debt were $1,087.9M and debt repayments were $500.0M, so net new term debt was about $588M. Fiscal 2023 had no new debt proceeds and no scheduled repayments, but $65.7M of debt was terminated early.",
+     "anchors": [
+      "1.7"
+     ]
+    },
+    {
+     "point": "Commercial paper: in fiscal 2024, $10,184.4M was issued and $10,183.9M repaid, a net change of about $0.5M. In fiscal 2023, $5,287.1M was issued and $4,739.9M repaid, a net of $547.2M, which created the CP balance carried on the balance sheet.",
+     "anchors": [
+      "1.7",
+      "1.3"
+     ]
+    },
+    {
+     "point": "Interest cost: interest expense was $322.2M vs $264.6M (up about $58M, about 22%). Interest income was $78.8M vs $41.3M, so net interest cost was about $243M vs about $223M.",
+     "anchors": [
+      "1.1"
+     ]
+    },
+    {
+     "point": "Context: net cash used for financing was $1,714.4M vs $4,063.8M. At year-end 2024 the company also held more cash ($1,991.3M vs $958.1M) and $371.8M of short-term investments. Fiscal 2024 was a 53-week year.",
+     "anchors": [
+      "1.8",
+      "1.3",
+      "1.9"
+     ]
+    }
+   ],
+   "pieces": [
+    {
+     "anchor": "1.1",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.2",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.3",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.4",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.5",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.6",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.7",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.8",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.9",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.10",
+     "label": "not_relevant"
+    }
+   ]
+  },
+  {
+   "id": "mini5s-r3",
+   "covered": true,
+   "key_points": [
+    {
+     "point": "Cash from operations after capital spending: in fiscal 2024, operating cash flow of $3,852.5M less PP&E additions of $730.5M left about $3.12B. In fiscal 2023, operating cash flow of $4,817.6M less $1,261.5M of capex left about $3.56B.",
+     "anchors": [
+      "1.7"
+     ]
+    },
+    {
+     "point": "Shareholder payouts: dividends were $1,795.5M vs $1,679.1M ($3.62 vs $3.34 per share). Share repurchases were $615.6M vs $2,964.0M (about 3.2M vs 16.5M shares). Total payouts were about $2.41B vs about $4.64B.",
+     "anchors": [
+      "1.8",
+      "1.5"
+     ]
+    },
+    {
+     "point": "Coverage: in fiscal 2024, free cash flow covered dividends plus buybacks about 1.3 times, leaving a surplus of about $0.71B. In fiscal 2023 it covered only about 77%, a shortfall of about $1.09B, mainly because of the large buybacks.",
+     "anchors": [
+      "1.7",
+      "1.8"
+     ]
+    },
+    {
+     "point": "How the 2024 surplus showed up: the surplus plus about $588M of net new term debt ($1,087.9M proceeds less $500.0M repaid), with commercial paper essentially flat, went into cash and investments. Cash rose $1,033.3M to $1,991.3M, and about $370M net went into short-term investments ($371.8M balance).",
+     "anchors": [
+      "1.7",
+      "1.8",
+      "1.3"
+     ]
+    },
+    {
+     "point": "How the 2023 shortfall was funded: net commercial paper issuance of $547.2M and a $512.5M drawdown of cash, which fell from $1,470.6M to $958.1M. Fiscal 2023 also included $65.7M of early debt termination.",
+     "anchors": [
+      "1.7",
+      "1.8",
+      "1.3"
+     ]
+    },
+    {
+     "point": "Context: employee stock plan proceeds of $121.2M vs $118.6M were a small extra inflow. Fiscal 2024 was a 53-week year, compared with 52 weeks in 2023.",
+     "anchors": [
+      "1.8",
+      "1.9"
+     ]
+    }
+   ],
+   "pieces": [
+    {
+     "anchor": "1.1",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.2",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.3",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.4",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.5",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.6",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.7",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.8",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.9",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.10",
+     "label": "not_relevant"
+    }
+   ]
+  },
+  {
+   "id": "mini5s-r4",
+   "covered": false,
+   "key_points": [],
+   "pieces": [
+    {
+     "anchor": "1.1",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.2",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.3",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.4",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.5",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.6",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.7",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.8",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.9",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.10",
+     "label": "not_relevant"
+    }
+   ]
+  }
+ ]
+}

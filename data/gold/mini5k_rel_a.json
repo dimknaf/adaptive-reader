@@ -1,0 +1,296 @@
+{
+ "answers": [
+  {
+   "id": "mini5k-r1",
+   "covered": true,
+   "key_points": [
+    {
+     "point": "Net income fell 51%, from $3,314.6M to $1,635.3M. Diluted EPS fell from $6.55 to $3.28 and net income as a share of revenue fell from 26.9% to 17.3%. The filing attributes the drop to a $1,790.3M fall in operating income and a $40.3M rise in nonoperating expense, partly offset by a $151.4M lower tax provision.",
+     "anchors": [
+      "1.1",
+      "1.7"
+     ]
+    },
+    {
+     "point": "Revenue fell 23%, from $12,305.5M to $9,427.2M, mainly because of weaker macroeconomic trends. The drop was sharpest in Industrial (-35%), where customers cut their inventory, and in Communications (-33%), because of the timing of infrastructure deployment. Automotive (-2%) and Consumer (-1%) fell less as reduced consumer spending weakened demand. Revenue fell in every region.",
+     "anchors": [
+      "1.2",
+      "1.1",
+      "1.4"
+     ]
+    },
+    {
+     "point": "Gross margin fell $2,495.9M (32%). Gross margin % dropped 690 bp, from 64.0% to 57.1%, mainly because of lower factory utilization as customer demand fell, plus an unfavorable product mix.",
+     "anchors": [
+      "1.5",
+      "1.1"
+     ]
+    },
+    {
+     "point": "Lower operating expenses partly offset the gross margin loss: SMG&A fell $204.9M (lower variable compensation, salary and benefits, and discretionary spending), amortization fell $204.8M (some acquired intangibles became fully amortized in 2023), R&D fell $172.3M (lower variable compensation) and special charges fell $123.5M (lower Q4 2023 Plan charges). The extra week in 53-week fiscal 2024 partly offset these cuts. Operating income still fell $1,790.3M (47%), and operating margin went from 31.1% to 21.6%.",
+     "anchors": [
+      "1.5",
+      "1.6",
+      "1.1"
+     ]
+    },
+    {
+     "point": "Nonoperating expense rose $40.3M (19%), to $255.5M, because of higher interest expense on debt and lower net gains from other investments, partly offset by higher interest income.",
+     "anchors": [
+      "1.7"
+     ]
+    },
+    {
+     "point": "The income tax provision fell $151.4M (52%), to $142.1M, which partly offset the decline. The effective tax rate was about the same (8.0% vs 8.1%) because pretax income was earned mainly in Ireland at a 12.5% rate. Fiscal 2023 had also included an $81.7M discrete tax benefit.",
+     "anchors": [
+      "1.7"
+     ]
+    }
+   ],
+   "pieces": [
+    {
+     "anchor": "1.1",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.2",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.3",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.4",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.5",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.6",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.7",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.8",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.9",
+     "label": "not_relevant"
+    }
+   ]
+  },
+  {
+   "id": "mini5k-r2",
+   "covered": true,
+   "key_points": [
+    {
+     "point": "Customer inventory: Industrial revenue fell 35%, from $6,611.8M to $4,314.3M, as customers cut their inventory balances. This was a main reason total revenue fell 23%. Industrial's share of revenue fell from 54% to 46%.",
+     "anchors": [
+      "1.2"
+     ]
+    },
+    {
+     "point": "The Industrial decline also cut the distributor channel's share of revenue from 61% to 58%, with distributor revenue falling from $7,534.9M to $5,505.8M. Distributors buy products to resell them.",
+     "anchors": [
+      "1.3"
+     ]
+    },
+    {
+     "point": "Factory utilization: gross margin % fell 690 bp, from 64.0% to 57.1%, and gross margin fell $2,495.9M. The main causes were lower factory utilization as customer demand fell, plus an unfavorable product mix.",
+     "anchors": [
+      "1.5"
+     ]
+    },
+    {
+     "point": "Company inventory fell 12%, from $1,642.2M to $1,447.7M, as the company worked to balance manufacturing production, demand and inventory levels. Inventory levels depend on the need to support forecast demand and on gaps between forecast and actual demand.",
+     "anchors": [
+      "1.9"
+     ]
+    },
+    {
+     "point": "Days cost of sales in inventory rose from 125 to 139, calculated on average balances and including Maxim acquisition accounting adjustments. Inventory fell more slowly than cost of sales.",
+     "anchors": [
+      "1.9"
+     ]
+    },
+    {
+     "point": "Working capital: operating cash flow fell from $4,817.6M to $3,852.5M because of lower adjusted net income, partly offset by changes in working capital, including the lower inventory and receivables balances.",
+     "anchors": [
+      "1.8",
+      "1.9"
+     ]
+    }
+   ],
+   "pieces": [
+    {
+     "anchor": "1.1",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.2",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.3",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.4",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.5",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.6",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.7",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.8",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.9",
+     "label": "essential"
+    }
+   ]
+  },
+  {
+   "id": "mini5k-r3",
+   "covered": true,
+   "key_points": [
+    {
+     "point": "At November 2, 2024, the company held $2.4B in cash, cash equivalents and short-term investments, about $1.3B of it in the US and the rest in foreign subsidiaries. The holdings are highly liquid (money market funds, corporate and bank obligations) and placed with high-credit-rating counterparties. Management does not expect repatriation restrictions or taxes to materially affect liquidity.",
+     "anchors": [
+      "1.8"
+     ]
+    },
+    {
+     "point": "Management believes existing liquidity, future operating cash and available financing will cover operations, capex, R&D and dividends for at least the next twelve months.",
+     "anchors": [
+      "1.8"
+     ]
+    },
+    {
+     "point": "Operating cash flow stayed strong at $3,852.5M, and rose to 41% of revenue from 39%. It was still down from $4,817.6M because of lower net income adjusted for noncash items, partly offset by working capital changes.",
+     "anchors": [
+      "1.8"
+     ]
+    },
+    {
+     "point": "Cash used for investing fell to $1,104.9M from $1,266.4M, mainly because of lower capex. Cash used for financing fell to $1,714.4M from $4,063.8M, mainly because of lower share buybacks.",
+     "anchors": [
+      "1.8",
+      "1.9"
+     ]
+    },
+    {
+     "point": "Signs of pressure: revenue fell 23% and net income fell 51%. Nonoperating expense rose because of higher interest expense on debt obligations, partly offset by higher interest income.",
+     "anchors": [
+      "1.1",
+      "1.7"
+     ]
+    },
+    {
+     "point": "Working capital: accounts receivable fell 9% and inventory fell 12%, but days sales outstanding rose from 48 to 54 and days in inventory rose from 125 to 139. Current liabilities fell to $3.0B from $3.2B because of lower accrued liabilities and current debt, partly offset by higher income taxes payable.",
+     "anchors": [
+      "1.9"
+     ]
+    }
+   ],
+   "pieces": [
+    {
+     "anchor": "1.1",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.2",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.3",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.4",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.5",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.6",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.7",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.8",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.9",
+     "label": "essential"
+    }
+   ]
+  },
+  {
+   "id": "mini5k-r4",
+   "covered": false,
+   "key_points": [],
+   "pieces": [
+    {
+     "anchor": "1.1",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.2",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.3",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.4",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.5",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.6",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.7",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.8",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.9",
+     "label": "not_relevant"
+    }
+   ]
+  }
+ ]
+}

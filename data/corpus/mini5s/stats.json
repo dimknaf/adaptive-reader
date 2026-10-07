@@ -1,0 +1,27 @@
+{
+ "bundle": "mini5s",
+ "docs": 1,
+ "pieces": 10,
+ "tokens": 4477,
+ "piece_tokens": {
+  "min": 323,
+  "median": 444.0,
+  "max": 582
+ },
+ "mean_pad": 4.5,
+ "config": {
+  "min_tokens": 350,
+  "max_tokens": 600,
+  "target_tokens": 500,
+  "long_line": 250,
+  "hard_cut": 600,
+  "block": 16
+ },
+ "units": {
+  "heading": 18,
+  "blank": 23,
+  "row": 144,
+  "line": 13,
+  "sentence": 0
+ }
+}

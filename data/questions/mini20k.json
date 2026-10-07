@@ -1,0 +1,32 @@
+[
+ {
+  "id": "mini20k-q1",
+  "type": "lookup",
+  "question": "What was Analog Devices' interest expense for fiscal 2024 (the year ended November 2, 2024), in thousands of U.S. dollars?"
+ },
+ {
+  "id": "mini20k-q2",
+  "type": "change_and_driver",
+  "question": "By how many basis points did Analog Devices' gross margin percentage change in fiscal 2024 (year ended November 2, 2024) compared with fiscal 2023 (year ended October 28, 2023), and what reasons does the company give for the change?"
+ },
+ {
+  "id": "mini20k-q3",
+  "type": "list",
+  "question": "List the four end markets into which Analog Devices categorizes its revenue, and give each end market's revenue for fiscal 2024 (year ended November 2, 2024) in thousands of U.S. dollars."
+ },
+ {
+  "id": "mini20k-q4",
+  "type": "cross_section",
+  "question": "What approximate carrying value of senior notes outstanding at November 2, 2024 does the management's discussion report, and which two debt lines on the consolidated balance sheet at that date (with their amounts in thousands of U.S. dollars) together make up that carrying value?"
+ },
+ {
+  "id": "mini20k-q5",
+  "type": "policy",
+  "question": "How does Analog Devices account for government capital grants received for the acquisition of property, plant and equipment, and how does that differ from its treatment of employment grants and research and development grants?"
+ },
+ {
+  "id": "mini20k-q6",
+  "type": "not_in_text",
+  "question": "How much of Analog Devices' fiscal 2024 (year ended November 2, 2024) special charges, net related to severance and fringe benefit costs under the Q4 2023 Plan, in thousands of U.S. dollars?"
+ }
+]

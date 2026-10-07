@@ -1,0 +1,434 @@
+{
+ "questions": [
+  {
+   "id": "ex-q1",
+   "question": "What was the company's total store count at the end of fiscal 2023 (January 28, 2024)?"
+  },
+  {
+   "id": "ex-q2",
+   "question": "How did SG&A as a percent of net sales change from fiscal 2022 to fiscal 2023, and what reasons does management give for the change?"
+  },
+  {
+   "id": "ex-q3",
+   "question": "Which merchandising departments posted positive comparable sales in fiscal 2023 compared to fiscal 2022?"
+  },
+  {
+   "id": "ex-q4",
+   "question": "What was the company's cash and cash equivalents balance at the end of fiscal 2023?"
+  }
+ ],
+ "judges": [
+  {
+   "labels": [
+    {
+     "question_id": "ex-q1",
+     "anchor": "1.1",
+     "useful": "yes",
+     "relevance": 100,
+     "keep": "part",
+     "needed_lines": [
+      "We reported net sales of $152.7 billion in fiscal 2023. Net earnings were $15.1 billion, or $15.11 per diluted share. During fiscal 2023, we opened eight new stores in the U.S. and five new stores in Mexico, resulting in a total store count of 2,335 at January 28, 2024. At the end of fiscal 2023, a total of 320 of our stores, or 13.7% of our total store count, were located in Canada and Mexico. Total sales per retail square foot were $604.55 in fiscal 2023. Our inventory turnover ratio was 4.3 times at the end of fiscal 2023, compared to 4.2 times at the end of fiscal 2022."
+     ]
+    },
+    {
+     "question_id": "ex-q1",
+     "anchor": "1.2",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q1",
+     "anchor": "1.3",
+     "useful": "no",
+     "relevance": 10,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q1",
+     "anchor": "1.4",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q1",
+     "anchor": "1.5",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q1",
+     "anchor": "1.6",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q2",
+     "anchor": "1.1",
+     "useful": "no",
+     "relevance": 10,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q2",
+     "anchor": "1.2",
+     "useful": "yes",
+     "relevance": 70,
+     "keep": "part",
+     "needed_lines": [
+      "| | Fiscal 2023 | Fiscal 2023 | Fiscal 2022 | Fiscal 2022 | Fiscal 2021 | Fiscal 2021 |",
+      "| dollars in millions | $ | %of Net Sales | $ | %of Net Sales | $ | %of Net Sales |",
+      "| Selling, general and administrative | 26,598 | 17.4 | 26,284 | 16.7 | 25,406 | 16.8 |"
+     ]
+    },
+    {
+     "question_id": "ex-q2",
+     "anchor": "1.3",
+     "useful": "no",
+     "relevance": 20,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q2",
+     "anchor": "1.4",
+     "useful": "no",
+     "relevance": 20,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q2",
+     "anchor": "1.5",
+     "useful": "yes",
+     "relevance": 100,
+     "keep": "part",
+     "needed_lines": [
+      "Selling, General & Administrative. SG&A increased $314 million, or 1.2%, to $26.6 billion in fiscal 2023. As a percent of net sales, SG&A was 17.4% in fiscal 2023 compared to 16.7% in fiscal 2022, primarily reflecting deleverage from a negative comparable sales environment along with previously executed wage investments for hourly associates, partially offset by the one-time benefit from the favorable settlement of litigation with a vendor as well as lower incentive compensation."
+     ]
+    },
+    {
+     "question_id": "ex-q2",
+     "anchor": "1.6",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q3",
+     "anchor": "1.1",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q3",
+     "anchor": "1.2",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q3",
+     "anchor": "1.3",
+     "useful": "no",
+     "relevance": 20,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q3",
+     "anchor": "1.4",
+     "useful": "yes",
+     "relevance": 100,
+     "keep": "part",
+     "needed_lines": [
+      "For fiscal 2023, four of our 14 merchandising departments-Building Materials, Outdoor Garden, Hardware, and Plumbingposted positive comparable sales compared to fiscal 2022. All of our other merchandising departments posted negative comparable sales during fiscal 2023 compared to fiscal 2022, with our Lumber department posting a double-digit comparable sales decline primarily resulting from lumber price deflation, partially offset by higher unit sales."
+     ]
+    },
+    {
+     "question_id": "ex-q3",
+     "anchor": "1.5",
+     "useful": "no",
+     "relevance": 10,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q3",
+     "anchor": "1.6",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q4",
+     "anchor": "1.1",
+     "useful": "no",
+     "relevance": 20,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q4",
+     "anchor": "1.2",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q4",
+     "anchor": "1.3",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q4",
+     "anchor": "1.4",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q4",
+     "anchor": "1.5",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q4",
+     "anchor": "1.6",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    }
+   ]
+  },
+  {
+   "labels": [
+    {
+     "question_id": "ex-q1",
+     "anchor": "1.1",
+     "useful": "yes",
+     "relevance": 100,
+     "keep": "part",
+     "needed_lines": [
+      "We reported net sales of $152.7 billion in fiscal 2023. Net earnings were $15.1 billion, or $15.11 per diluted share. During fiscal 2023, we opened eight new stores in the U.S. and five new stores in Mexico, resulting in a total store count of 2,335 at January 28, 2024. At the end of fiscal 2023, a total of 320 of our stores, or 13.7% of our total store count, were located in Canada and Mexico. Total sales per retail square foot were $604.55 in fiscal 2023. Our inventory turnover ratio was 4.3 times at the end of fiscal 2023, compared to 4.2 times at the end of fiscal 2022."
+     ]
+    },
+    {
+     "question_id": "ex-q1",
+     "anchor": "1.2",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q1",
+     "anchor": "1.3",
+     "useful": "no",
+     "relevance": 10,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q1",
+     "anchor": "1.4",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q1",
+     "anchor": "1.5",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q1",
+     "anchor": "1.6",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q2",
+     "anchor": "1.1",
+     "useful": "no",
+     "relevance": 10,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q2",
+     "anchor": "1.2",
+     "useful": "yes",
+     "relevance": 70,
+     "keep": "part",
+     "needed_lines": [
+      "| | Fiscal 2023 | Fiscal 2023 | Fiscal 2022 | Fiscal 2022 | Fiscal 2021 | Fiscal 2021 |",
+      "| dollars in millions | $ | %of Net Sales | $ | %of Net Sales | $ | %of Net Sales |",
+      "| Selling, general and administrative | 26,598 | 17.4 | 26,284 | 16.7 | 25,406 | 16.8 |"
+     ]
+    },
+    {
+     "question_id": "ex-q2",
+     "anchor": "1.3",
+     "useful": "no",
+     "relevance": 10,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q2",
+     "anchor": "1.4",
+     "useful": "no",
+     "relevance": 20,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q2",
+     "anchor": "1.5",
+     "useful": "yes",
+     "relevance": 100,
+     "keep": "part",
+     "needed_lines": [
+      "Selling, General & Administrative. SG&A increased $314 million, or 1.2%, to $26.6 billion in fiscal 2023. As a percent of net sales, SG&A was 17.4% in fiscal 2023 compared to 16.7% in fiscal 2022, primarily reflecting deleverage from a negative comparable sales environment along with previously executed wage investments for hourly associates, partially offset by the one-time benefit from the favorable settlement of litigation with a vendor as well as lower incentive compensation."
+     ]
+    },
+    {
+     "question_id": "ex-q2",
+     "anchor": "1.6",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q3",
+     "anchor": "1.1",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q3",
+     "anchor": "1.2",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q3",
+     "anchor": "1.3",
+     "useful": "no",
+     "relevance": 20,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q3",
+     "anchor": "1.4",
+     "useful": "yes",
+     "relevance": 100,
+     "keep": "part",
+     "needed_lines": [
+      "For fiscal 2023, four of our 14 merchandising departments-Building Materials, Outdoor Garden, Hardware, and Plumbingposted positive comparable sales compared to fiscal 2022. All of our other merchandising departments posted negative comparable sales during fiscal 2023 compared to fiscal 2022, with our Lumber department posting a double-digit comparable sales decline primarily resulting from lumber price deflation, partially offset by higher unit sales."
+     ]
+    },
+    {
+     "question_id": "ex-q3",
+     "anchor": "1.5",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q3",
+     "anchor": "1.6",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q4",
+     "anchor": "1.1",
+     "useful": "no",
+     "relevance": 20,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q4",
+     "anchor": "1.2",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q4",
+     "anchor": "1.3",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q4",
+     "anchor": "1.4",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q4",
+     "anchor": "1.5",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex-q4",
+     "anchor": "1.6",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    }
+   ]
+  }
+ ]
+}

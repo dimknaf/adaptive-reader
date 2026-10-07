@@ -1,0 +1,242 @@
+{
+ "questions": [
+  {
+   "id": "examples-t1",
+   "question": "Explain why the retailer's net sales fell in fiscal 2023. Split the decline into its customer-transaction and average-ticket parts, and give the factors management names behind each one, including what held the average ticket up."
+  },
+  {
+   "id": "examples-t2",
+   "question": "Collect everything the excerpt says about how the company returned cash to shareholders in fiscal 2023: dividends paid, share repurchases, any announced dividend change, and what effect the buybacks had on per-share results."
+  },
+  {
+   "id": "examples-t3",
+   "question": "Judge how well the retailer handled its inventory and merchandise margins in fiscal 2023. Was gross margin under real pressure, and if so from what? Use the evidence on inventory position, turnover, supply chain costs and shrink."
+  }
+ ],
+ "judges": [
+  {
+   "labels": [
+    {
+     "question_id": "examples-t1",
+     "anchor": "1.1",
+     "label": "supporting",
+     "relevance": 40
+    },
+    {
+     "question_id": "examples-t1",
+     "anchor": "1.2",
+     "label": "supporting",
+     "relevance": 50
+    },
+    {
+     "question_id": "examples-t1",
+     "anchor": "1.3",
+     "label": "essential",
+     "relevance": 80
+    },
+    {
+     "question_id": "examples-t1",
+     "anchor": "1.4",
+     "label": "essential",
+     "relevance": 100
+    },
+    {
+     "question_id": "examples-t1",
+     "anchor": "1.5",
+     "label": "not_relevant",
+     "relevance": 20
+    },
+    {
+     "question_id": "examples-t1",
+     "anchor": "1.6",
+     "label": "not_relevant",
+     "relevance": 10
+    },
+    {
+     "question_id": "examples-t2",
+     "anchor": "1.1",
+     "label": "essential",
+     "relevance": 100
+    },
+    {
+     "question_id": "examples-t2",
+     "anchor": "1.2",
+     "label": "not_relevant",
+     "relevance": 20
+    },
+    {
+     "question_id": "examples-t2",
+     "anchor": "1.3",
+     "label": "supporting",
+     "relevance": 50
+    },
+    {
+     "question_id": "examples-t2",
+     "anchor": "1.4",
+     "label": "not_relevant",
+     "relevance": 0
+    },
+    {
+     "question_id": "examples-t2",
+     "anchor": "1.5",
+     "label": "not_relevant",
+     "relevance": 10
+    },
+    {
+     "question_id": "examples-t2",
+     "anchor": "1.6",
+     "label": "essential",
+     "relevance": 90
+    },
+    {
+     "question_id": "examples-t3",
+     "anchor": "1.1",
+     "label": "essential",
+     "relevance": 80
+    },
+    {
+     "question_id": "examples-t3",
+     "anchor": "1.2",
+     "label": "supporting",
+     "relevance": 60
+    },
+    {
+     "question_id": "examples-t3",
+     "anchor": "1.3",
+     "label": "not_relevant",
+     "relevance": 20
+    },
+    {
+     "question_id": "examples-t3",
+     "anchor": "1.4",
+     "label": "supporting",
+     "relevance": 30
+    },
+    {
+     "question_id": "examples-t3",
+     "anchor": "1.5",
+     "label": "essential",
+     "relevance": 100
+    },
+    {
+     "question_id": "examples-t3",
+     "anchor": "1.6",
+     "label": "not_relevant",
+     "relevance": 10
+    }
+   ]
+  },
+  {
+   "labels": [
+    {
+     "question_id": "examples-t1",
+     "anchor": "1.1",
+     "label": "supporting",
+     "relevance": 30
+    },
+    {
+     "question_id": "examples-t1",
+     "anchor": "1.2",
+     "label": "supporting",
+     "relevance": 50
+    },
+    {
+     "question_id": "examples-t1",
+     "anchor": "1.3",
+     "label": "essential",
+     "relevance": 80
+    },
+    {
+     "question_id": "examples-t1",
+     "anchor": "1.4",
+     "label": "essential",
+     "relevance": 100
+    },
+    {
+     "question_id": "examples-t1",
+     "anchor": "1.5",
+     "label": "not_relevant",
+     "relevance": 10
+    },
+    {
+     "question_id": "examples-t1",
+     "anchor": "1.6",
+     "label": "not_relevant",
+     "relevance": 0
+    },
+    {
+     "question_id": "examples-t2",
+     "anchor": "1.1",
+     "label": "essential",
+     "relevance": 100
+    },
+    {
+     "question_id": "examples-t2",
+     "anchor": "1.2",
+     "label": "not_relevant",
+     "relevance": 20
+    },
+    {
+     "question_id": "examples-t2",
+     "anchor": "1.3",
+     "label": "supporting",
+     "relevance": 50
+    },
+    {
+     "question_id": "examples-t2",
+     "anchor": "1.4",
+     "label": "not_relevant",
+     "relevance": 0
+    },
+    {
+     "question_id": "examples-t2",
+     "anchor": "1.5",
+     "label": "not_relevant",
+     "relevance": 0
+    },
+    {
+     "question_id": "examples-t2",
+     "anchor": "1.6",
+     "label": "essential",
+     "relevance": 90
+    },
+    {
+     "question_id": "examples-t3",
+     "anchor": "1.1",
+     "label": "essential",
+     "relevance": 70
+    },
+    {
+     "question_id": "examples-t3",
+     "anchor": "1.2",
+     "label": "supporting",
+     "relevance": 50
+    },
+    {
+     "question_id": "examples-t3",
+     "anchor": "1.3",
+     "label": "not_relevant",
+     "relevance": 10
+    },
+    {
+     "question_id": "examples-t3",
+     "anchor": "1.4",
+     "label": "not_relevant",
+     "relevance": 20
+    },
+    {
+     "question_id": "examples-t3",
+     "anchor": "1.5",
+     "label": "essential",
+     "relevance": 100
+    },
+    {
+     "question_id": "examples-t3",
+     "anchor": "1.6",
+     "label": "not_relevant",
+     "relevance": 0
+    }
+   ]
+  }
+ ]
+}

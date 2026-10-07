@@ -1,0 +1,430 @@
+{
+ "bundle": "mini5k",
+ "question": {
+  "id": "mini5k-r1",
+  "question": "Explain why net income roughly halved in fiscal 2024 compared with fiscal 2023, tracing the main drivers from revenue and gross margin through operating expenses, nonoperating items and income taxes, including what partly offset the decline.",
+  "type": "explain"
+ },
+ "run_id": "e16423a7c3bf",
+ "strictness": 0.8,
+ "summary_threshold": 0.98,
+ "enough_threshold": 0.7,
+ "forms": [
+  "full",
+  "summary"
+ ],
+ "pieces": 9,
+ "doc_tokens": 4490,
+ "root_tokens": 11088,
+ "memory": [
+  {
+   "key": "root",
+   "kind": "root",
+   "tokens": 11088
+  },
+  {
+   "key": "[1]",
+   "kind": "scope",
+   "tokens": 32
+  },
+  {
+   "key": "1.1",
+   "kind": "note",
+   "tokens": 112
+  },
+  {
+   "key": "1.2",
+   "kind": "note",
+   "tokens": 96
+  },
+  {
+   "key": "1.3",
+   "kind": "piece",
+   "tokens": 384
+  },
+  {
+   "key": "1.5",
+   "kind": "note",
+   "tokens": 80
+  },
+  {
+   "key": "1.6",
+   "kind": "note",
+   "tokens": 112
+  },
+  {
+   "key": "1.7",
+   "kind": "piece",
+   "tokens": 608
+  },
+  {
+   "key": "1.8",
+   "kind": "piece",
+   "tokens": 480
+  },
+  {
+   "key": "1.9",
+   "kind": "note",
+   "tokens": 64
+  }
+ ],
+ "memory_tokens": 13056,
+ "answer": {
+  "text": "The document does not provide a direct explanation of why net income roughly halved in fiscal 2024 compared with fiscal 2023, tracing the main drivers from revenue and gross margin through operating expenses, nonoperating items and income taxes. While it states that net income fell 51% to $1.6 billion from fiscal 2023's $3.3 billion, and lists the components (revenue decline, gross margin decline",
+  "finish": "stop",
+  "cost": {
+   "requests": 1,
+   "prompt": 13170,
+   "uncached": 178,
+   "cached": 12992,
+   "output": 87,
+   "server_uncached": 178,
+   "weighted": 526
+  }
+ },
+ "reading": {
+  "requests": 33,
+  "prompt": 408772,
+  "uncached": 5780,
+  "cached": 402992,
+  "output": 600,
+  "server_uncached": 5780,
+  "weighted": 8180
+ },
+ "total": {
+  "requests": 35,
+  "prompt": 432935,
+  "uncached": 7655,
+  "cached": 425280,
+  "output": 688,
+  "weighted": 10407
+ },
+ "uncached_per_doc_token": 1.2873,
+ "weighted_per_doc_token": 1.8218,
+ "mismatches": [],
+ "secs": 343.9,
+ "trace": [
+  {
+   "anchor": "1.1",
+   "path": [
+    "ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (all tabular amounts in thousands except per share amounts)"
+   ],
+   "char": [
+    0,
+    1667
+   ],
+   "n_tokens": 473,
+   "useful": 0.9916,
+   "useful_mass": 0.9998,
+   "m_before": 11120,
+   "p_summary": 0.9964,
+   "summary": "Fiscal 2024 net income fell ~51% to $1.6 billion from fiscal 2023's $3.3 billion; revenue down 23%, gross margin% 57.1% vs 64.0%; diluted EPS down 50% to $3.28 from $6.55; fiscal 2024 was 53-week period vs fiscal 2023's",
+   "finish": "length",
+   "p_enough": 0.8539,
+   "enough_mass": 0.998,
+   "decision": "summary",
+   "cost": {
+    "requests": 4,
+    "prompt": 46622,
+    "uncached": 686,
+    "cached": 45936,
+    "output": 83,
+    "server_uncached": 686,
+    "weighted": 1018
+   },
+   "m_after": 11232,
+   "memory": [
+    "1.1"
+   ]
+  },
+  {
+   "anchor": "1.2",
+   "path": [
+    "Revenue Trends by End Market"
+   ],
+   "char": [
+    1667,
+    3496
+   ],
+   "n_tokens": 480,
+   "useful": 0.8199,
+   "useful_mass": 0.9986,
+   "m_before": 11232,
+   "p_summary": 0.9911,
+   "summary": "Fiscal 2024 revenue $9,427,157 vs fiscal 2023 $12,305,539, a 23% decline; Industrial -35%, Communications -33%, Automotive -2%, Consumer -1%; drivers include weaker macro trends, inventory reductions in Industrial, and infrastructure deployment timing in Communications; Automotive and Consumer declined due to reduced consumer spending.",
+   "finish": "stop",
+   "p_enough": 0.7957,
+   "enough_mass": 0.9983,
+   "decision": "summary",
+   "cost": {
+    "requests": 4,
+    "prompt": 47115,
+    "uncached": 683,
+    "cached": 46432,
+    "output": 77,
+    "server_uncached": 683,
+    "weighted": 991
+   },
+   "m_after": 11328,
+   "memory": [
+    "1.1",
+    "1.2"
+   ]
+  },
+  {
+   "anchor": "1.3",
+   "path": [
+    "Revenue by Sales Channel"
+   ],
+   "char": [
+    3496,
+    4949
+   ],
+   "n_tokens": 369,
+   "useful": 0.8856,
+   "useful_mass": 0.9988,
+   "m_before": 11328,
+   "p_summary": 0.99,
+   "summary": "Fiscal 2024 revenue $9,427,157 vs fiscal 2023 $12,305,539, a 23% decline; distributors $5,505,779 (58%) vs $7,534,894 (61%); direct customers $3,772,945 (40%) vs $4,603,166 (37%); other $148,433 (2%) vs $",
+   "finish": "length",
+   "p_enough": 0.696,
+   "enough_mass": 0.9964,
+   "decision": "full",
+   "cost": {
+    "requests": 4,
+    "prompt": 47056,
+    "uncached": 560,
+    "cached": 46496,
+    "output": 83,
+    "server_uncached": 560,
+    "weighted": 892
+   },
+   "m_after": 11712,
+   "memory": [
+    "1.1",
+    "1.2",
+    "1.3"
+   ]
+  },
+  {
+   "anchor": "1.4",
+   "path": [
+    "Revenue Trends by Geographic Region"
+   ],
+   "char": [
+    4949,
+    6550
+   ],
+   "n_tokens": 470,
+   "useful": 0.7249,
+   "useful_mass": 0.9971,
+   "m_before": 11712,
+   "decision": "removed",
+   "cost": {
+    "requests": 1,
+    "prompt": 12220,
+    "uncached": 508,
+    "cached": 11712,
+    "output": 1,
+    "server_uncached": 508,
+    "weighted": 512
+   },
+   "m_after": 11712,
+   "memory": [
+    "1.1",
+    "1.2",
+    "1.3"
+   ]
+  },
+  {
+   "anchor": "1.5",
+   "path": [
+    "Gross Margin"
+   ],
+   "char": [
+    6550,
+    8591
+   ],
+   "n_tokens": 555,
+   "useful": 0.9274,
+   "useful_mass": 0.9981,
+   "m_before": 11712,
+   "p_summary": 0.9959,
+   "summary": "Fiscal 2024 gross margin fell $2.5 billion, or 32%, to $5.38 billion, with gross margin percentage dropping to 57.1% from 64.0% in fiscal 2023, driven by lower factory utilization due to decreased customer demand and unfavorable product mix.",
+   "finish": "stop",
+   "p_enough": 0.8824,
+   "enough_mass": 0.9993,
+   "decision": "summary",
+   "cost": {
+    "requests": 4,
+    "prompt": 49336,
+    "uncached": 648,
+    "cached": 48688,
+    "output": 66,
+    "server_uncached": 648,
+    "weighted": 912
+   },
+   "m_after": 11792,
+   "memory": [
+    "1.1",
+    "1.2",
+    "1.3",
+    "1.5"
+   ]
+  },
+  {
+   "anchor": "1.6",
+   "path": [
+    "Amortization of Intangibles"
+   ],
+   "char": [
+    8591,
+    10298
+   ],
+   "n_tokens": 507,
+   "useful": 0.8706,
+   "useful_mass": 0.9968,
+   "m_before": 11792,
+   "p_summary": 0.9946,
+   "summary": "Fiscal 2024 amortization expenses decreased $204.8 million, or 21%, to $754.8 million from fiscal 2023's $959.6 million, as a portion of acquired intangible assets became fully amortized during fiscal 2023; special charges, net decreased $123.5 million, or 77%, to $37.3 million from $160.7 million in",
+   "finish": "length",
+   "p_enough": 0.8081,
+   "enough_mass": 0.9991,
+   "decision": "summary",
+   "cost": {
+    "requests": 4,
+    "prompt": 49492,
+    "uncached": 676,
+    "cached": 48816,
+    "output": 83,
+    "server_uncached": 676,
+    "weighted": 1008
+   },
+   "m_after": 11904,
+   "memory": [
+    "1.1",
+    "1.2",
+    "1.3",
+    "1.5",
+    "1.6"
+   ]
+  },
+  {
+   "anchor": "1.7",
+   "path": [
+    "Nonoperating Expense (Income)"
+   ],
+   "char": [
+    10298,
+    12403
+   ],
+   "n_tokens": 591,
+   "useful": 0.9073,
+   "useful_mass": 0.9987,
+   "m_before": 11904,
+   "p_summary": 0.995,
+   "summary": "Fiscal 2024 nonoperating expense increased $40.3 million, or 19%, to $255.5 million from fiscal 2023's $215.1 million, driven by higher interest expense and lower net gains from other investments, partially offset by higher interest income. Fiscal 2024 provision for income taxes was $142.1 million, down 52% to fiscal 2023",
+   "finish": "length",
+   "p_enough": 0.5889,
+   "enough_mass": 0.9983,
+   "decision": "full",
+   "cost": {
+    "requests": 4,
+    "prompt": 50256,
+    "uncached": 800,
+    "cached": 49456,
+    "output": 83,
+    "server_uncached": 800,
+    "weighted": 1132
+   },
+   "m_after": 12512,
+   "memory": [
+    "1.1",
+    "1.2",
+    "1.3",
+    "1.5",
+    "1.6",
+    "1.7"
+   ]
+  },
+  {
+   "anchor": "1.8",
+   "path": [
+    "Liquidity and Capital Resources"
+   ],
+   "char": [
+    12403,
+    14691
+   ],
+   "n_tokens": 468,
+   "useful": 0.9897,
+   "useful_mass": 0.9993,
+   "m_before": 12512,
+   "p_summary": 0.9948,
+   "summary": "Fiscal 2024 net income fell ~51% to $1.6 billion from fiscal 2023's $3.3 billion; revenue down 23%, gross margin% 57.1% vs 64.0%; diluted EPS down 50% to $3.28 from $6.55; fiscal 2024 was 53-week period vs fiscal 2023's",
+   "finish": "length",
+   "p_enough": 0.6826,
+   "enough_mass": 0.9994,
+   "decision": "full",
+   "cost": {
+    "requests": 4,
+    "prompt": 52178,
+    "uncached": 562,
+    "cached": 51616,
+    "output": 83,
+    "server_uncached": 562,
+    "weighted": 894
+   },
+   "m_after": 12992,
+   "memory": [
+    "1.1",
+    "1.2",
+    "1.3",
+    "1.5",
+    "1.6",
+    "1.7",
+    "1.8"
+   ]
+  },
+  {
+   "anchor": "1.9",
+   "path": [
+    "Investing Activities"
+   ],
+   "char": [
+    14691,
+    17274
+   ],
+   "n_tokens": 577,
+   "useful": 0.8977,
+   "useful_mass": 0.9943,
+   "m_before": 12992,
+   "p_summary": 0.9928,
+   "summary": "Fiscal 2024 investing cash flow decreased $1.1 billion, driven by lower capital expenditures, partially offset by purchases and maturities of short-term investments during fiscal 2024.",
+   "finish": "stop",
+   "p_enough": 0.7549,
+   "enough_mass": 0.9991,
+   "decision": "summary",
+   "cost": {
+    "requests": 4,
+    "prompt": 54497,
+    "uncached": 657,
+    "cached": 53840,
+    "output": 41,
+    "server_uncached": 657,
+    "weighted": 821
+   },
+   "m_after": 13056,
+   "memory": [
+    "1.1",
+    "1.2",
+    "1.3",
+    "1.5",
+    "1.6",
+    "1.7",
+    "1.8",
+    "1.9"
+   ]
+  }
+ ]
+}

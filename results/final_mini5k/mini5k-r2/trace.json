@@ -1,0 +1,416 @@
+{
+ "bundle": "mini5k",
+ "question": {
+  "id": "mini5k-r2",
+  "question": "Gather everything the excerpt says about inventory in fiscal 2024, covering both customers' inventory behavior and the company's own inventory levels and factory utilization, and how these affected revenue, margins and working capital.",
+  "type": "gather"
+ },
+ "run_id": "fdb748e4cfde",
+ "strictness": 0.8,
+ "summary_threshold": 0.98,
+ "enough_threshold": 0.7,
+ "forms": [
+  "full",
+  "summary"
+ ],
+ "pieces": 9,
+ "doc_tokens": 4490,
+ "root_tokens": 11072,
+ "memory": [
+  {
+   "key": "root",
+   "kind": "root",
+   "tokens": 11072
+  },
+  {
+   "key": "[1]",
+   "kind": "scope",
+   "tokens": 32
+  },
+  {
+   "key": "1.1",
+   "kind": "note",
+   "tokens": 112
+  },
+  {
+   "key": "1.2",
+   "kind": "note",
+   "tokens": 80
+  },
+  {
+   "key": "1.3",
+   "kind": "note",
+   "tokens": 80
+  },
+  {
+   "key": "1.5",
+   "kind": "note",
+   "tokens": 80
+  },
+  {
+   "key": "1.7",
+   "kind": "piece",
+   "tokens": 608
+  },
+  {
+   "key": "1.8",
+   "kind": "note",
+   "tokens": 112
+  },
+  {
+   "key": "1.9",
+   "kind": "piece",
+   "tokens": 592
+  }
+ ],
+ "memory_tokens": 12768,
+ "answer": {
+  "text": "The excerpt does not contain the answer. The document provided is about Analog Devices' fiscal 2024 results, not Home Depot's fiscal 2023 cash returns or inventory details. The relevant pieces ([x.1], [x.2], [x.3], [x.4], [x.5], [x.6], [x.7], [x.8], [x.9], [x.10]) are all about Home Depot, but the latest document ([1], [1.1], [1.2], [1.3], [1.5], [1.7], [1.8], [1.9], [1.10]) is about Analogs, so",
+  "finish": "stop",
+  "cost": {
+   "requests": 1,
+   "prompt": 12882,
+   "uncached": 114,
+   "cached": 12768,
+   "output": 150,
+   "server_uncached": 114,
+   "weighted": 714
+  }
+ },
+ "reading": {
+  "requests": 30,
+  "prompt": 362514,
+  "uncached": 5794,
+  "cached": 356720,
+  "output": 525,
+  "server_uncached": 5794,
+  "weighted": 7894
+ },
+ "total": {
+  "requests": 32,
+  "prompt": 386389,
+  "uncached": 5909,
+  "cached": 380480,
+  "output": 676,
+  "weighted": 8613
+ },
+ "uncached_per_doc_token": 1.2904,
+ "weighted_per_doc_token": 1.7581,
+ "mismatches": [],
+ "secs": 287.3,
+ "trace": [
+  {
+   "anchor": "1.1",
+   "path": [
+    "ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (all tabular amounts in thousands except per share amounts)"
+   ],
+   "char": [
+    0,
+    1667
+   ],
+   "n_tokens": 473,
+   "useful": 0.9843,
+   "useful_mass": 0.9998,
+   "m_before": 11104,
+   "p_summary": 0.9957,
+   "summary": "Fiscal 2024 ended November 2, 2024; fiscal 2023 ended October 28, 2023; fiscal 2024 was a 53-week period with an extra week in Q1 ended February 3, 2024. Results of operations and financial condition for fiscal 2024 compared to fiscal 2023 are discussed here; fiscal 2023 results compared to",
+   "finish": "length",
+   "p_enough": 0.8081,
+   "enough_mass": 0.9974,
+   "decision": "summary",
+   "cost": {
+    "requests": 4,
+    "prompt": 46558,
+    "uncached": 670,
+    "cached": 45888,
+    "output": 83,
+    "server_uncached": 670,
+    "weighted": 1002
+   },
+   "m_after": 11216,
+   "memory": [
+    "1.1"
+   ]
+  },
+  {
+   "anchor": "1.2",
+   "path": [
+    "Revenue Trends by End Market"
+   ],
+   "char": [
+    1667,
+    3496
+   ],
+   "n_tokens": 480,
+   "useful": 0.9482,
+   "useful_mass": 0.9995,
+   "m_before": 11216,
+   "p_summary": 0.9933,
+   "summary": "Fiscal 2024 revenue $9,427,157 vs fiscal 2023 $12,305,539, a 23% decline; driven by weaker macroeconomic trends, with customers decreasing inventory balances in Industrial and timing of infrastructure deployment in Communications; Automotive and Consumer declined less due to reduced consumer spending.",
+   "finish": "stop",
+   "p_enough": 0.8652,
+   "enough_mass": 0.9991,
+   "decision": "summary",
+   "cost": {
+    "requests": 4,
+    "prompt": 47039,
+    "uncached": 687,
+    "cached": 46352,
+    "output": 65,
+    "server_uncached": 687,
+    "weighted": 947
+   },
+   "m_after": 11296,
+   "memory": [
+    "1.1",
+    "1.2"
+   ]
+  },
+  {
+   "anchor": "1.3",
+   "path": [
+    "Revenue by Sales Channel"
+   ],
+   "char": [
+    3496,
+    4949
+   ],
+   "n_tokens": 369,
+   "useful": 0.9185,
+   "useful_mass": 0.9994,
+   "m_before": 11296,
+   "p_summary": 0.9914,
+   "summary": "Fiscal 2024 revenue $9,427,157 vs fiscal 2023 $12,305,539, a 23% decline; driven by weaker macroeconomic trends, with customers decreasing inventory balances in Industrial and timing of infrastructure deployment in Communications; Automotive and Consumer declined less due to reduced consumer spending.",
+   "finish": "stop",
+   "p_enough": 0.7982,
+   "enough_mass": 0.999,
+   "decision": "summary",
+   "cost": {
+    "requests": 4,
+    "prompt": 46909,
+    "uncached": 541,
+    "cached": 46368,
+    "output": 65,
+    "server_uncached": 541,
+    "weighted": 801
+   },
+   "m_after": 11376,
+   "memory": [
+    "1.1",
+    "1.2",
+    "1.3"
+   ]
+  },
+  {
+   "anchor": "1.4",
+   "path": [
+    "Revenue Trends by Geographic Region"
+   ],
+   "char": [
+    4949,
+    6550
+   ],
+   "n_tokens": 470,
+   "useful": 0.752,
+   "useful_mass": 0.9989,
+   "m_before": 11376,
+   "decision": "removed",
+   "cost": {
+    "requests": 1,
+    "prompt": 11884,
+    "uncached": 588,
+    "cached": 11296,
+    "output": 1,
+    "server_uncached": 588,
+    "weighted": 592
+   },
+   "m_after": 11376,
+   "memory": [
+    "1.1",
+    "1.2",
+    "1.3"
+   ]
+  },
+  {
+   "anchor": "1.5",
+   "path": [
+    "Gross Margin"
+   ],
+   "char": [
+    6550,
+    8591
+   ],
+   "n_tokens": 555,
+   "useful": 0.9674,
+   "useful_mass": 0.9996,
+   "m_before": 11376,
+   "p_summary": 0.9964,
+   "summary": "Fiscal 2024 gross margin $5,381,343 vs fiscal 2023 $7,877,218, a decline of $2,495,875 or 32%; gross margin percentage fell 690 basis points due to lower factory utilization from decreased customer demand and unfavorable product mix.",
+   "finish": "stop",
+   "p_enough": 0.9399,
+   "enough_mass": 0.9996,
+   "decision": "summary",
+   "cost": {
+    "requests": 4,
+    "prompt": 47989,
+    "uncached": 645,
+    "cached": 47344,
+    "output": 63,
+    "server_uncached": 645,
+    "weighted": 897
+   },
+   "m_after": 11456,
+   "memory": [
+    "1.1",
+    "1.2",
+    "1.3",
+    "1.5"
+   ]
+  },
+  {
+   "anchor": "1.6",
+   "path": [
+    "Amortization of Intangibles"
+   ],
+   "char": [
+    8591,
+    10298
+   ],
+   "n_tokens": 507,
+   "useful": 0.7853,
+   "useful_mass": 0.9978,
+   "m_before": 11456,
+   "decision": "removed",
+   "cost": {
+    "requests": 1,
+    "prompt": 12012,
+    "uncached": 636,
+    "cached": 11376,
+    "output": 1,
+    "server_uncached": 636,
+    "weighted": 640
+   },
+   "m_after": 11456,
+   "memory": [
+    "1.1",
+    "1.2",
+    "1.3",
+    "1.5"
+   ]
+  },
+  {
+   "anchor": "1.7",
+   "path": [
+    "Nonoperating Expense (Income)"
+   ],
+   "char": [
+    10298,
+    12403
+   ],
+   "n_tokens": 591,
+   "useful": 0.8007,
+   "useful_mass": 0.9984,
+   "m_before": 11456,
+   "p_summary": 0.9947,
+   "summary": "Fiscal 2024 nonoperating expense was $255,458 vs fiscal 2023 $215,109, a $40,349 increase (19%); driven by higher interest expense and lower net gains from other investments, partially offset by higher interest income. Fiscal 2024 provision for income taxes was $142,067 vs $293,424, a $151,357 decrease (52%); effective",
+   "finish": "length",
+   "p_enough": 0.6826,
+   "enough_mass": 0.9978,
+   "decision": "full",
+   "cost": {
+    "requests": 4,
+    "prompt": 48464,
+    "uncached": 688,
+    "cached": 47776,
+    "output": 83,
+    "server_uncached": 688,
+    "weighted": 1020
+   },
+   "m_after": 12064,
+   "memory": [
+    "1.1",
+    "1.2",
+    "1.3",
+    "1.5",
+    "1.7"
+   ]
+  },
+  {
+   "anchor": "1.8",
+   "path": [
+    "Liquidity and Capital Resources"
+   ],
+   "char": [
+    12403,
+    14691
+   ],
+   "n_tokens": 468,
+   "useful": 0.9573,
+   "useful_mass": 0.9995,
+   "m_before": 12064,
+   "p_summary": 0.9936,
+   "summary": "Fiscal 2024 ended November 2, 2024; fiscal 2023 ended October 28, 2023; fiscal 2024 was a 53-week period with an extra week in Q1 ended February 3, 2024. Fiscal 2024 net cash provided by operating activities was $3,852,529 vs fiscal 2023 $4,817,634",
+   "finish": "length",
+   "p_enough": 0.7402,
+   "enough_mass": 0.9994,
+   "decision": "summary",
+   "cost": {
+    "requests": 4,
+    "prompt": 50386,
+    "uncached": 562,
+    "cached": 49824,
+    "output": 83,
+    "server_uncached": 562,
+    "weighted": 894
+   },
+   "m_after": 12176,
+   "memory": [
+    "1.1",
+    "1.2",
+    "1.3",
+    "1.5",
+    "1.7",
+    "1.8"
+   ]
+  },
+  {
+   "anchor": "1.9",
+   "path": [
+    "Investing Activities"
+   ],
+   "char": [
+    14691,
+    17274
+   ],
+   "n_tokens": 577,
+   "useful": 0.9643,
+   "useful_mass": 0.9996,
+   "m_before": 12176,
+   "p_summary": 0.9941,
+   "summary": "Fiscal 2024 investing cash flows decreased cash used for capital expenditures, partially offset by purchases and maturities of short-term investments; fiscal 2023 figures not detailed here but referenced as prior period comparison. The document does not provide full fiscal 2023 investing details beyond the comparison to fiscal 2024, so the excerpt does not fully cover fiscal 2023 investing. The \"",
+   "finish": "stop",
+   "p_enough": 0.3008,
+   "enough_mass": 0.9913,
+   "decision": "full",
+   "cost": {
+    "requests": 4,
+    "prompt": 51273,
+    "uncached": 777,
+    "cached": 50496,
+    "output": 81,
+    "server_uncached": 777,
+    "weighted": 1101
+   },
+   "m_after": 12768,
+   "memory": [
+    "1.1",
+    "1.2",
+    "1.3",
+    "1.5",
+    "1.7",
+    "1.8",
+    "1.9"
+   ]
+  }
+ ]
+}

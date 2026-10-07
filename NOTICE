@@ -1,0 +1,10 @@
+adaptive-reader
+Copyright 2026 dimknaf
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+It includes a short function adapted from OpenAI's GPT-2 (Modified MIT License);
+see THIRD_PARTY_NOTICES.md.
+
+The document excerpts in data/, and the passages quoted from them in results/ and
+viz/replay.html, are not covered by the Apache License; see data/README.md.

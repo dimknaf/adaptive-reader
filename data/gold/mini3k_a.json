@@ -1,0 +1,225 @@
+{
+ "answers": [
+  {
+   "id": "mini3k-q1",
+   "answerable": true,
+   "answer": "$1,487,863 thousand",
+   "facts": [
+    {
+     "fact": "R&D expenses, fiscal 2024: $1,487,863",
+     "locations": [
+      {
+       "anchor": "1.5",
+       "quote": "R&D expenses | $ 1,487,863 | $ 1,660,194 | $ (172,331) | (10)%"
+      }
+     ]
+    },
+    {
+     "fact": "Tabular amounts are in thousands",
+     "locations": [
+      {
+       "anchor": "1.1",
+       "quote": "(all tabular amounts in thousands except per share amounts)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mini3k-q2",
+   "answerable": true,
+   "answer": "Revenue decreased by $2,878,382 thousand, or 23% (from $12,305,539 to $9,427,157). The company says this was mainly because of weaker macroeconomic trends. The effect was strongest in Industrial, where customers reduced their inventory balances, and in Communications, mainly because of the timing of infrastructure deployment cycles. Automotive and Consumer fell less, as demand weakened with reduced consumer spending. Revenue fell in all regions because of the weaker macroeconomic conditions.",
+   "facts": [
+    {
+     "fact": "Total revenue change fiscal 2024 vs fiscal 2023: $(2,878,382)",
+     "locations": [
+      {
+       "anchor": "1.1",
+       "quote": "Revenue | $ 9,427,157 | $ 12,305,539 | $ (2,878,382) | (23)%"
+      },
+      {
+       "anchor": "1.4",
+       "quote": "Total Revenue | $ 9,427,157 | $ 12,305,539 | $ (2,878,382) | (23)%"
+      }
+     ]
+    },
+    {
+     "fact": "Total revenue percent change fiscal 2024 vs fiscal 2023: (23)%",
+     "locations": [
+      {
+       "anchor": "1.1",
+       "quote": "Revenue | $ 9,427,157 | $ 12,305,539 | $ (2,878,382) | (23)%"
+      },
+      {
+       "anchor": "1.2",
+       "quote": "Revenue decreased 23% in fiscal 2024 as compared to fiscal 2023"
+      },
+      {
+       "anchor": "1.4",
+       "quote": "Total Revenue | $ 9,427,157 | $ 12,305,539 | $ (2,878,382) | (23)%"
+      }
+     ]
+    },
+    {
+     "fact": "Reason: weaker macroeconomic trends/conditions (the primary cause; revenue fell in all regions)",
+     "locations": [
+      {
+       "anchor": "1.2",
+       "quote": "primarily as a result of weaker macroeconomic trends"
+      },
+      {
+       "anchor": "1.4",
+       "quote": "Total revenue decreased in fiscal 2024 as compared to fiscal 2023 in all regions due to weaker macroeconomic conditions"
+      }
+     ]
+    },
+    {
+     "fact": "Reason: the decline was strongest in Industrial, as customers reduced their inventory balances",
+     "locations": [
+      {
+       "anchor": "1.2",
+       "quote": "This was pronounced in our Industrial end market as customers decreased their inventory balances"
+      }
+     ]
+    },
+    {
+     "fact": "Reason: Communications declined, mainly because of the timing of infrastructure deployment cycles",
+     "locations": [
+      {
+       "anchor": "1.2",
+       "quote": "in the Communications end market primarily due to the timing of infrastructure deployment cycles"
+      }
+     ]
+    },
+    {
+     "fact": "Reason: Automotive and Consumer declined less, as demand weakened with reduced consumer spending",
+     "locations": [
+      {
+       "anchor": "1.2",
+       "quote": "The Automotive and Consumer end markets declined to a lesser extent as demand weakened driven by reduced consumer spending"
+      }
+     ]
+    },
+    {
+     "fact": "Tabular amounts are in thousands",
+     "locations": [
+      {
+       "anchor": "1.1",
+       "quote": "(all tabular amounts in thousands except per share amounts)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mini3k-q3",
+   "answerable": true,
+   "answer": "All four decreased: R&D fell $172,331 thousand (10%); SMG&A fell $204,944 thousand (16%); amortization of intangibles fell $204,834 thousand (21%); special charges, net fell $123,452 thousand (77%).",
+   "facts": [
+    {
+     "fact": "R&D expenses decreased $(172,331), fiscal 2024 vs fiscal 2023",
+     "locations": [
+      {
+       "anchor": "1.5",
+       "quote": "R&D expenses | $ 1,487,863 | $ 1,660,194 | $ (172,331) | (10)%"
+      },
+      {
+       "anchor": "1.6",
+       "quote": "a $172.3 million decrease in R&D expenses"
+      }
+     ]
+    },
+    {
+     "fact": "R&D expenses decreased (10)%",
+     "locations": [
+      {
+       "anchor": "1.5",
+       "quote": "R&D expenses | $ 1,487,863 | $ 1,660,194 | $ (172,331) | (10)%"
+      }
+     ]
+    },
+    {
+     "fact": "SMG&A expenses decreased $(204,944), fiscal 2024 vs fiscal 2023",
+     "locations": [
+      {
+       "anchor": "1.5",
+       "quote": "SMG&Aexpenses | $ 1,068,640 | $ 1,273,584 | $ (204,944) | (16)%"
+      },
+      {
+       "anchor": "1.6",
+       "quote": "a $204.9 million decrease in SMG&A expenses"
+      }
+     ]
+    },
+    {
+     "fact": "SMG&A expenses decreased (16)%",
+     "locations": [
+      {
+       "anchor": "1.5",
+       "quote": "SMG&Aexpenses | $ 1,068,640 | $ 1,273,584 | $ (204,944) | (16)%"
+      }
+     ]
+    },
+    {
+     "fact": "Amortization expenses decreased $(204,834), fiscal 2024 vs fiscal 2023",
+     "locations": [
+      {
+       "anchor": "1.6",
+       "quote": "Amortization expenses | $ 754,784 | $ 959,618 | $ (204,834) | (21)%"
+      },
+      {
+       "anchor": "1.6",
+       "quote": "a $204.8 million decrease in amortization expenses"
+      }
+     ]
+    },
+    {
+     "fact": "Amortization expenses decreased (21)%",
+     "locations": [
+      {
+       "anchor": "1.6",
+       "quote": "Amortization expenses | $ 754,784 | $ 959,618 | $ (204,834) | (21)%"
+      }
+     ]
+    },
+    {
+     "fact": "Special charges, net decreased $(123,452), fiscal 2024 vs fiscal 2023",
+     "locations": [
+      {
+       "anchor": "1.6",
+       "quote": "Special charges, net | $ 37,258 | 160,710 | $ (123,452) | (77)%"
+      },
+      {
+       "anchor": "1.6",
+       "quote": "a $123.5 million decrease in special charges, net"
+      }
+     ]
+    },
+    {
+     "fact": "Special charges, net decreased (77)%",
+     "locations": [
+      {
+       "anchor": "1.6",
+       "quote": "Special charges, net | $ 37,258 | 160,710 | $ (123,452) | (77)%"
+      }
+     ]
+    },
+    {
+     "fact": "Tabular amounts are in thousands",
+     "locations": [
+      {
+       "anchor": "1.1",
+       "quote": "(all tabular amounts in thousands except per share amounts)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mini3k-q4",
+   "answerable": false,
+   "answer": "not stated",
+   "facts": []
+  }
+ ]
+}

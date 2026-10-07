@@ -1,0 +1,22 @@
+[
+ {
+  "id": "mini5k-q1",
+  "question": "What was the company's net cash provided by operating activities for fiscal 2024 (the fiscal year ended November 2, 2024), in thousands of dollars?",
+  "type": "lookup"
+ },
+ {
+  "id": "mini5k-q2",
+  "question": "By how many basis points did the company's gross margin percentage change in fiscal 2024 compared with fiscal 2023, and what reasons does the company give for the change?",
+  "type": "change_and_driver"
+ },
+ {
+  "id": "mini5k-q3",
+  "question": "Which end markets had lower revenue in fiscal 2024 than in fiscal 2023, and by what year-over-year percentage did each one decline?",
+  "type": "list"
+ },
+ {
+  "id": "mini5k-q4",
+  "question": "What was the total dollar amount of dividends the company paid to shareholders in fiscal 2024?",
+  "type": "not_in_text"
+ }
+]

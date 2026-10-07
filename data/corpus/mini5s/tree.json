@@ -1,0 +1,231 @@
+{
+ "bundle": "mini5s",
+ "parts": [
+  {
+   "a": 1,
+   "doc_id": "adi-10k-fy2024",
+   "title": "Analog Devices · FILING · FY 2024 · 2024-11-26",
+   "meta": {
+    "source": "adi-10k-fy2024.md",
+    "company": "Analog Devices",
+    "ticker": "ADI",
+    "isin": "US0326541051",
+    "published_at": "2024-11-26",
+    "document_type": "FILING",
+    "period": "FY 2024",
+    "lines": "1673-1900"
+   },
+   "tokens": 4380,
+   "scopes": {
+    "title": "Analog Devices · FILING · FY 2024 · 2024-11-26",
+    "depth": 0,
+    "char": [
+     0,
+     14369
+    ],
+    "pieces": [],
+    "children": [
+     {
+      "title": "ANALOG DEVICES, INC.",
+      "depth": 2,
+      "char": [
+       0,
+       25
+      ],
+      "pieces": [
+       "1.1"
+      ],
+      "children": []
+     },
+     {
+      "title": "CONSOLIDATED STATEMENTS OF INCOME Years ended November 2, 2024, October 28, 2023 and October 29, 2022",
+      "depth": 2,
+      "char": [
+       25,
+       1626
+      ],
+      "pieces": [
+       "1.2"
+      ],
+      "children": []
+     },
+     {
+      "title": "ANALOG DEVICES, INC.",
+      "depth": 2,
+      "char": [
+       1626,
+       1651
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME Years ended November 2, 2024, October 28, 2023 and October 29, 2022",
+      "depth": 2,
+      "char": [
+       1651,
+       2798
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "ANALOG DEVICES, INC.",
+      "depth": 2,
+      "char": [
+       2798,
+       2823
+      ],
+      "pieces": [
+       "1.3"
+      ],
+      "children": []
+     },
+     {
+      "title": "CONSOLIDATED BALANCE SHEETS November 2, 2024 and October 28, 2023",
+      "depth": 2,
+      "char": [
+       2823,
+       4927
+      ],
+      "pieces": [
+       "1.4"
+      ],
+      "children": []
+     },
+     {
+      "title": "ANALOG DEVICES, INC.",
+      "depth": 2,
+      "char": [
+       4927,
+       4952
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY Years ended November 2, 2024, October 28, 2023 and October 29, 2022",
+      "depth": 2,
+      "char": [
+       4952,
+       6670
+      ],
+      "pieces": [
+       "1.5"
+      ],
+      "children": []
+     },
+     {
+      "title": "ANALOG DEVICES, INC.",
+      "depth": 2,
+      "char": [
+       6670,
+       6695
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "CONSOLIDATED STATEMENTS OF CASH FLOWS",
+      "depth": 2,
+      "char": [
+       6695,
+       6737
+      ],
+      "pieces": [
+       "1.6"
+      ],
+      "children": []
+     },
+     {
+      "title": "Years ended November 2, 2024, October 28, 2023 and October 29, 2022",
+      "depth": 2,
+      "char": [
+       6737,
+       9544
+      ],
+      "pieces": [
+       "1.7",
+       "1.8"
+      ],
+      "children": []
+     },
+     {
+      "title": "1. Description of Business",
+      "depth": 2,
+      "char": [
+       9544,
+       10776
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "2. Summary of Significant Accounting Policies",
+      "depth": 2,
+      "char": [
+       10776,
+       10826
+      ],
+      "pieces": [
+       "1.9"
+      ],
+      "children": []
+     },
+     {
+      "title": "a. Principles of Consolidation",
+      "depth": 2,
+      "char": [
+       10826,
+       12127
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "b. Cash, Cash Equivalents and Short-term Investments",
+      "depth": 2,
+      "char": [
+       12127,
+       14165
+      ],
+      "pieces": [
+       "1.10"
+      ],
+      "children": []
+     },
+     {
+      "title": "ANALOG DEVICES, INC.",
+      "depth": 2,
+      "char": [
+       14165,
+       14190
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS",
+      "depth": 2,
+      "char": [
+       14190,
+       14237
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Years ended November 2, 2024, October 28, 2023 and October 29, 2022",
+      "depth": 2,
+      "char": [
+       14237,
+       14369
+      ],
+      "pieces": [],
+      "children": []
+     }
+    ]
+   }
+  }
+ ]
+}

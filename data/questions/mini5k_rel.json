@@ -1,0 +1,22 @@
+[
+ {
+  "id": "mini5k-r1",
+  "question": "Explain why net income roughly halved in fiscal 2024 compared with fiscal 2023, tracing the main drivers from revenue and gross margin through operating expenses, nonoperating items and income taxes, including what partly offset the decline.",
+  "type": "explain"
+ },
+ {
+  "id": "mini5k-r2",
+  "question": "Gather everything the excerpt says about inventory in fiscal 2024, covering both customers' inventory behavior and the company's own inventory levels and factory utilization, and how these affected revenue, margins and working capital.",
+  "type": "gather"
+ },
+ {
+  "id": "mini5k-r3",
+  "question": "Assess how strong the company's liquidity and cash-generation position was at the end of fiscal 2024 despite the revenue decline, weighing the supporting evidence against any signs of pressure in the excerpt.",
+  "type": "assess"
+ },
+ {
+  "id": "mini5k-r4",
+  "question": "What revenue and gross margin outlook did management give for the first quarter of fiscal 2025, and which end markets did it expect to recover first?",
+  "type": "not_covered"
+ }
+]

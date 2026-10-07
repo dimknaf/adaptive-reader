@@ -1,0 +1,361 @@
+{
+ "bundle": "mini5k",
+ "question": {
+  "id": "mini5k-r2",
+  "question": "Gather everything the excerpt says about inventory in fiscal 2024, covering both customers' inventory behavior and the company's own inventory levels and factory utilization, and how these affected revenue, margins and working capital.",
+  "type": "gather"
+ },
+ "run_id": "1994e7de611f",
+ "strictness": 0.8,
+ "summary_threshold": 1.0,
+ "enough_threshold": 0.7,
+ "forms": [
+  "full",
+  "summary"
+ ],
+ "pieces": 9,
+ "doc_tokens": 4490,
+ "root_tokens": 11072,
+ "memory": [
+  {
+   "key": "root",
+   "kind": "root",
+   "tokens": 11072
+  },
+  {
+   "key": "[1]",
+   "kind": "scope",
+   "tokens": 32
+  },
+  {
+   "key": "1.1",
+   "kind": "piece",
+   "tokens": 480
+  },
+  {
+   "key": "1.2",
+   "kind": "piece",
+   "tokens": 496
+  },
+  {
+   "key": "1.5",
+   "kind": "piece",
+   "tokens": 576
+  },
+  {
+   "key": "1.8",
+   "kind": "piece",
+   "tokens": 480
+  },
+  {
+   "key": "1.9",
+   "kind": "piece",
+   "tokens": 592
+  }
+ ],
+ "memory_tokens": 13728,
+ "answer": {
+  "text": "The excerpt does not contain the answer. The document provided is for Analog Devices's fiscal 2024 filing and does not discuss Home Depot's inventory, revenue, margins, or working capital. The anchors ([1.2], [1.5], [1.8], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [1.9], [",
+  "finish": "stop",
+  "cost": {
+   "requests": 1,
+   "prompt": 13842,
+   "uncached": 114,
+   "cached": 13728,
+   "output": 182,
+   "server_uncached": 114,
+   "weighted": 842
+  }
+ },
+ "reading": {
+  "requests": 9,
+  "prompt": 114908,
+  "uncached": 4988,
+  "cached": 109920,
+  "output": 9,
+  "server_uncached": 4988,
+  "weighted": 5024
+ },
+ "total": {
+  "requests": 11,
+  "prompt": 139743,
+  "uncached": 5103,
+  "cached": 134640,
+  "output": 192,
+  "weighted": 5871
+ },
+ "uncached_per_doc_token": 1.1109,
+ "weighted_per_doc_token": 1.1189,
+ "mismatches": [],
+ "secs": 218.7,
+ "trace": [
+  {
+   "anchor": "1.1",
+   "path": [
+    "ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (all tabular amounts in thousands except per share amounts)"
+   ],
+   "char": [
+    0,
+    1667
+   ],
+   "n_tokens": 473,
+   "useful": 0.9893,
+   "useful_mass": 0.9998,
+   "m_before": 11104,
+   "decision": "full",
+   "cost": {
+    "requests": 1,
+    "prompt": 11612,
+    "uncached": 620,
+    "cached": 10992,
+    "output": 1,
+    "server_uncached": 620,
+    "weighted": 624
+   },
+   "m_after": 11584,
+   "memory": [
+    "1.1"
+   ]
+  },
+  {
+   "anchor": "1.2",
+   "path": [
+    "Revenue Trends by End Market"
+   ],
+   "char": [
+    1667,
+    3496
+   ],
+   "n_tokens": 480,
+   "useful": 0.9019,
+   "useful_mass": 0.9992,
+   "m_before": 11584,
+   "decision": "full",
+   "cost": {
+    "requests": 1,
+    "prompt": 12108,
+    "uncached": 524,
+    "cached": 11584,
+    "output": 1,
+    "server_uncached": 524,
+    "weighted": 528
+   },
+   "m_after": 12080,
+   "memory": [
+    "1.1",
+    "1.2"
+   ]
+  },
+  {
+   "anchor": "1.3",
+   "path": [
+    "Revenue by Sales Channel"
+   ],
+   "char": [
+    3496,
+    4949
+   ],
+   "n_tokens": 369,
+   "useful": 0.6334,
+   "useful_mass": 0.9978,
+   "m_before": 12080,
+   "decision": "removed",
+   "cost": {
+    "requests": 1,
+    "prompt": 12492,
+    "uncached": 412,
+    "cached": 12080,
+    "output": 1,
+    "server_uncached": 412,
+    "weighted": 416
+   },
+   "m_after": 12080,
+   "memory": [
+    "1.1",
+    "1.2"
+   ]
+  },
+  {
+   "anchor": "1.4",
+   "path": [
+    "Revenue Trends by Geographic Region"
+   ],
+   "char": [
+    4949,
+    6550
+   ],
+   "n_tokens": 470,
+   "useful": 0.7549,
+   "useful_mass": 0.999,
+   "m_before": 12080,
+   "decision": "removed",
+   "cost": {
+    "requests": 1,
+    "prompt": 12588,
+    "uncached": 508,
+    "cached": 12080,
+    "output": 1,
+    "server_uncached": 508,
+    "weighted": 512
+   },
+   "m_after": 12080,
+   "memory": [
+    "1.1",
+    "1.2"
+   ]
+  },
+  {
+   "anchor": "1.5",
+   "path": [
+    "Gross Margin"
+   ],
+   "char": [
+    6550,
+    8591
+   ],
+   "n_tokens": 555,
+   "useful": 0.9099,
+   "useful_mass": 0.9992,
+   "m_before": 12080,
+   "decision": "full",
+   "cost": {
+    "requests": 1,
+    "prompt": 12684,
+    "uncached": 604,
+    "cached": 12080,
+    "output": 1,
+    "server_uncached": 604,
+    "weighted": 608
+   },
+   "m_after": 12656,
+   "memory": [
+    "1.1",
+    "1.2",
+    "1.5"
+   ]
+  },
+  {
+   "anchor": "1.6",
+   "path": [
+    "Amortization of Intangibles"
+   ],
+   "char": [
+    8591,
+    10298
+   ],
+   "n_tokens": 507,
+   "useful": 0.7186,
+   "useful_mass": 0.9969,
+   "m_before": 12656,
+   "decision": "removed",
+   "cost": {
+    "requests": 1,
+    "prompt": 13212,
+    "uncached": 556,
+    "cached": 12656,
+    "output": 1,
+    "server_uncached": 556,
+    "weighted": 560
+   },
+   "m_after": 12656,
+   "memory": [
+    "1.1",
+    "1.2",
+    "1.5"
+   ]
+  },
+  {
+   "anchor": "1.7",
+   "path": [
+    "Nonoperating Expense (Income)"
+   ],
+   "char": [
+    10298,
+    12403
+   ],
+   "n_tokens": 591,
+   "useful": 0.7879,
+   "useful_mass": 0.9983,
+   "m_before": 12656,
+   "decision": "removed",
+   "cost": {
+    "requests": 1,
+    "prompt": 13292,
+    "uncached": 636,
+    "cached": 12656,
+    "output": 1,
+    "server_uncached": 636,
+    "weighted": 640
+   },
+   "m_after": 12656,
+   "memory": [
+    "1.1",
+    "1.2",
+    "1.5"
+   ]
+  },
+  {
+   "anchor": "1.8",
+   "path": [
+    "Liquidity and Capital Resources"
+   ],
+   "char": [
+    12403,
+    14691
+   ],
+   "n_tokens": 468,
+   "useful": 0.9615,
+   "useful_mass": 0.9994,
+   "m_before": 12656,
+   "decision": "full",
+   "cost": {
+    "requests": 1,
+    "prompt": 13164,
+    "uncached": 508,
+    "cached": 12656,
+    "output": 1,
+    "server_uncached": 508,
+    "weighted": 512
+   },
+   "m_after": 13136,
+   "memory": [
+    "1.1",
+    "1.2",
+    "1.5",
+    "1.8"
+   ]
+  },
+  {
+   "anchor": "1.9",
+   "path": [
+    "Investing Activities"
+   ],
+   "char": [
+    14691,
+    17274
+   ],
+   "n_tokens": 577,
+   "useful": 0.9698,
+   "useful_mass": 0.9983,
+   "m_before": 13136,
+   "decision": "full",
+   "cost": {
+    "requests": 1,
+    "prompt": 13756,
+    "uncached": 620,
+    "cached": 13136,
+    "output": 1,
+    "server_uncached": 620,
+    "weighted": 624
+   },
+   "m_after": 13728,
+   "memory": [
+    "1.1",
+    "1.2",
+    "1.5",
+    "1.8",
+    "1.9"
+   ]
+  }
+ ]
+}

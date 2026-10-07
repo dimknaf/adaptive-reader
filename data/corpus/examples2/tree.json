@@ -1,0 +1,219 @@
+{
+ "bundle": "examples2",
+ "parts": [
+  {
+   "a": 1,
+   "doc_id": "hd-10k-fy2023",
+   "title": "Home Depot · FILING · FY 2023 · 2024-02-20",
+   "meta": {
+    "source": "hd-10k-fy2023.md",
+    "company": "Home Depot",
+    "ticker": "HD",
+    "isin": "US4370761029",
+    "published_at": "2024-02-20",
+    "document_type": "FILING",
+    "period": "FY 2023",
+    "lines": "1288-1558"
+   },
+   "tokens": 4551,
+   "scopes": {
+    "title": "Home Depot · FILING · FY 2023 · 2024-02-20",
+    "depth": 0,
+    "char": [
+     0,
+     18286
+    ],
+    "pieces": [],
+    "children": [
+     {
+      "title": "THE HOME DEPOT, INC. CONSOLIDATED BALANCE SHEETS",
+      "depth": 2,
+      "char": [
+       0,
+       2052
+      ],
+      "pieces": [
+       "1.1",
+       "1.2"
+      ],
+      "children": []
+     },
+     {
+      "title": "THE HOME DEPOT, INC. CONSOLIDATED STATEMENTS OF EARNINGS",
+      "depth": 2,
+      "char": [
+       2052,
+       3295
+      ],
+      "pieces": [
+       "1.3"
+      ],
+      "children": []
+     },
+     {
+      "title": "THE HOME DEPOT, INC.",
+      "depth": 2,
+      "char": [
+       3295,
+       3320
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME",
+      "depth": 2,
+      "char": [
+       3320,
+       3864
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "THE HOME DEPOT, INC.",
+      "depth": 2,
+      "char": [
+       3864,
+       3889
+      ],
+      "pieces": [
+       "1.4"
+      ],
+      "children": []
+     },
+     {
+      "title": "CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY",
+      "depth": 2,
+      "char": [
+       3889,
+       5377
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "THE HOME DEPOT, INC. CONSOLIDATED STATEMENTS OF CASH FLOWS",
+      "depth": 2,
+      "char": [
+       5377,
+       7795
+      ],
+      "pieces": [
+       "1.5",
+       "1.6"
+      ],
+      "children": []
+     },
+     {
+      "title": "THE HOME DEPOT, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS",
+      "depth": 2,
+      "char": [
+       7795,
+       7863
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES",
+      "depth": 2,
+      "char": [
+       7863,
+       7910
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Business",
+      "depth": 2,
+      "char": [
+       7910,
+       8525
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Consolidation and Presentation",
+      "depth": 2,
+      "char": [
+       8525,
+       8867
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Use of Estimates",
+      "depth": 2,
+      "char": [
+       8867,
+       9272
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Cash and Cash Equivalents",
+      "depth": 2,
+      "char": [
+       9272,
+       9443
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Receivables, net",
+      "depth": 2,
+      "char": [
+       9443,
+       10262
+      ],
+      "pieces": [
+       "1.7"
+      ],
+      "children": []
+     },
+     {
+      "title": "Merchandise Inventories",
+      "depth": 2,
+      "char": [
+       10262,
+       12469
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Property and Equipment",
+      "depth": 2,
+      "char": [
+       12469,
+       14822
+      ],
+      "pieces": [
+       "1.8"
+      ],
+      "children": []
+     },
+     {
+      "title": "Leases",
+      "depth": 2,
+      "char": [
+       14822,
+       18286
+      ],
+      "pieces": [
+       "1.9",
+       "1.10"
+      ],
+      "children": []
+     }
+    ]
+   }
+  }
+ ]
+}

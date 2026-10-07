@@ -1,0 +1,173 @@
+{
+ "bundle": "examples",
+ "parts": [
+  {
+   "a": 1,
+   "doc_id": "hd-10k-fy2023",
+   "title": "Home Depot · FILING · FY 2023 · 2024-02-20",
+   "meta": {
+    "source": "hd-10k-fy2023.md",
+    "company": "Home Depot",
+    "ticker": "HD",
+    "isin": "US4370761029",
+    "published_at": "2024-02-20",
+    "document_type": "FILING",
+    "period": "FY 2023",
+    "lines": "957-1106"
+   },
+   "tokens": 3145,
+   "scopes": {
+    "title": "Home Depot · FILING · FY 2023 · 2024-02-20",
+    "depth": 0,
+    "char": [
+     0,
+     12252
+    ],
+    "pieces": [],
+    "children": [
+     {
+      "title": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations.",
+      "depth": 2,
+      "char": [
+       0,
+       759
+      ],
+      "pieces": [
+       "1.1"
+      ],
+      "children": []
+     },
+     {
+      "title": "TABLE OF CONTENTS",
+      "depth": 2,
+      "char": [
+       759,
+       920
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "EXECUTIVE SUMMARY",
+      "depth": 2,
+      "char": [
+       920,
+       2499
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "RESULTS OF OPERATIONS",
+      "depth": 2,
+      "char": [
+       2499,
+       5258
+      ],
+      "pieces": [
+       "1.2",
+       "1.3"
+      ],
+      "children": []
+     },
+     {
+      "title": "FISCAL 2023 COMPARED TO FISCAL 2022",
+      "depth": 2,
+      "char": [
+       5258,
+       5298
+      ],
+      "pieces": [
+       "1.4"
+      ],
+      "children": []
+     },
+     {
+      "title": "Sales",
+      "depth": 2,
+      "char": [
+       5298,
+       8070
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Gross Profit",
+      "depth": 2,
+      "char": [
+       8070,
+       8766
+      ],
+      "pieces": [
+       "1.5"
+      ],
+      "children": []
+     },
+     {
+      "title": "Operating Expenses",
+      "depth": 2,
+      "char": [
+       8766,
+       9750
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Interest and Other, net",
+      "depth": 2,
+      "char": [
+       9750,
+       10221
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Provision for Income Taxes",
+      "depth": 2,
+      "char": [
+       10221,
+       10351
+      ],
+      "pieces": [
+       "1.6"
+      ],
+      "children": []
+     },
+     {
+      "title": "Diluted Earnings per Share",
+      "depth": 2,
+      "char": [
+       10351,
+       10661
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "NON-GAAP FINANCIAL MEASURES",
+      "depth": 2,
+      "char": [
+       10661,
+       11043
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Return on Invested Capital",
+      "depth": 2,
+      "char": [
+       11043,
+       12252
+      ],
+      "pieces": [],
+      "children": []
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,856 @@
+{
+ "bundle": "mini20k",
+ "parts": [
+  {
+   "a": 1,
+   "doc_id": "adi-10k-fy2024",
+   "title": "Analog Devices · FILING · FY 2024 · 2024-11-26",
+   "meta": {
+    "source": "adi-10k-fy2024.md",
+    "company": "Analog Devices",
+    "ticker": "ADI",
+    "isin": "US0326541051",
+    "published_at": "2024-11-26",
+    "document_type": "FILING",
+    "period": "FY 2024",
+    "lines": "1225-2065"
+   },
+   "tokens": 19739,
+   "scopes": {
+    "title": "Analog Devices · FILING · FY 2024 · 2024-11-26",
+    "depth": 0,
+    "char": [
+     0,
+     84833
+    ],
+    "pieces": [],
+    "children": [
+     {
+      "title": "ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (all tabular amounts in thousands except per share amounts)",
+      "depth": 2,
+      "char": [
+       0,
+       1250
+      ],
+      "pieces": [
+       "1.1"
+      ],
+      "children": []
+     },
+     {
+      "title": "Results of Operations",
+      "depth": 2,
+      "char": [
+       1250,
+       1667
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Revenue Trends by End Market",
+      "depth": 2,
+      "char": [
+       1667,
+       3496
+      ],
+      "pieces": [
+       "1.2"
+      ],
+      "children": []
+     },
+     {
+      "title": "Revenue by Sales Channel",
+      "depth": 2,
+      "char": [
+       3496,
+       4949
+      ],
+      "pieces": [
+       "1.3"
+      ],
+      "children": []
+     },
+     {
+      "title": "Revenue Trends by Geographic Region",
+      "depth": 2,
+      "char": [
+       4949,
+       6550
+      ],
+      "pieces": [
+       "1.4"
+      ],
+      "children": []
+     },
+     {
+      "title": "Gross Margin",
+      "depth": 2,
+      "char": [
+       6550,
+       6989
+      ],
+      "pieces": [
+       "1.5"
+      ],
+      "children": []
+     },
+     {
+      "title": "Research and Development (R&D)",
+      "depth": 2,
+      "char": [
+       6989,
+       8591
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Amortization of Intangibles",
+      "depth": 2,
+      "char": [
+       8591,
+       9600
+      ],
+      "pieces": [
+       "1.6"
+      ],
+      "children": []
+     },
+     {
+      "title": "Operating Income",
+      "depth": 2,
+      "char": [
+       9600,
+       10298
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Nonoperating Expense (Income)",
+      "depth": 2,
+      "char": [
+       10298,
+       10778
+      ],
+      "pieces": [
+       "1.7"
+      ],
+      "children": []
+     },
+     {
+      "title": "Provision for Income Taxes",
+      "depth": 2,
+      "char": [
+       10778,
+       12403
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Liquidity and Capital Resources",
+      "depth": 2,
+      "char": [
+       12403,
+       14320
+      ],
+      "pieces": [
+       "1.8"
+      ],
+      "children": []
+     },
+     {
+      "title": "Operating Activities",
+      "depth": 2,
+      "char": [
+       14320,
+       14691
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Investing Activities",
+      "depth": 2,
+      "char": [
+       14691,
+       15096
+      ],
+      "pieces": [
+       "1.9"
+      ],
+      "children": []
+     },
+     {
+      "title": "Financing Activities",
+      "depth": 2,
+      "char": [
+       15096,
+       15518
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Working Capital",
+      "depth": 2,
+      "char": [
+       15518,
+       17275
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Revolving Credit Facility",
+      "depth": 2,
+      "char": [
+       17275,
+       18720
+      ],
+      "pieces": [
+       "1.10"
+      ],
+      "children": []
+     },
+     {
+      "title": "Debt",
+      "depth": 2,
+      "char": [
+       18720,
+       19651
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Commercial Paper Program",
+      "depth": 2,
+      "char": [
+       19651,
+       20307
+      ],
+      "pieces": [
+       "1.11"
+      ],
+      "children": []
+     },
+     {
+      "title": "Stock Repurchase Program",
+      "depth": 2,
+      "char": [
+       20307,
+       21354
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Capital Expenditures",
+      "depth": 2,
+      "char": [
+       21354,
+       21897
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Dividends",
+      "depth": 2,
+      "char": [
+       21897,
+       22502
+      ],
+      "pieces": [
+       "1.12"
+      ],
+      "children": []
+     },
+     {
+      "title": "Contractual Obligations",
+      "depth": 2,
+      "char": [
+       22502,
+       24709
+      ],
+      "pieces": [
+       "1.13"
+      ],
+      "children": []
+     },
+     {
+      "title": "New Accounting Pronouncements",
+      "depth": 2,
+      "char": [
+       24709,
+       25421
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Critical Accounting Policies and Estimates",
+      "depth": 2,
+      "char": [
+       25421,
+       26600
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Revenue Recognition",
+      "depth": 2,
+      "char": [
+       26600,
+       32030
+      ],
+      "pieces": [
+       "1.14",
+       "1.15"
+      ],
+      "children": []
+     },
+     {
+      "title": "Inventory Valuation",
+      "depth": 2,
+      "char": [
+       32030,
+       32929
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Goodwill",
+      "depth": 2,
+      "char": [
+       32929,
+       37381
+      ],
+      "pieces": [
+       "1.16",
+       "1.17"
+      ],
+      "children": []
+     },
+     {
+      "title": "Accounting for Income Taxes",
+      "depth": 2,
+      "char": [
+       37381,
+       41303
+      ],
+      "pieces": [
+       "1.18",
+       "1.19"
+      ],
+      "children": []
+     },
+     {
+      "title": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+      "depth": 2,
+      "char": [
+       41303,
+       41375
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Interest Rate Exposure",
+      "depth": 2,
+      "char": [
+       41375,
+       45624
+      ],
+      "pieces": [
+       "1.20",
+       "1.21"
+      ],
+      "children": []
+     },
+     {
+      "title": "Foreign Currency Exposure",
+      "depth": 2,
+      "char": [
+       45624,
+       48802
+      ],
+      "pieces": [
+       "1.22",
+       "1.23"
+      ],
+      "children": []
+     },
+     {
+      "title": "REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+      "depth": 2,
+      "char": [
+       48802,
+       48934
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Opinion on the Financial Statements",
+      "depth": 2,
+      "char": [
+       48934,
+       50274
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Basis for Opinion",
+      "depth": 2,
+      "char": [
+       50274,
+       51608
+      ],
+      "pieces": [
+       "1.24"
+      ],
+      "children": []
+     },
+     {
+      "title": "Critical Audit Matter",
+      "depth": 2,
+      "char": [
+       51608,
+       52329
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Revenue Recognition - Measuring Price Protection Credits",
+      "depth": 2,
+      "char": [
+       52329,
+       54830
+      ],
+      "pieces": [
+       "1.25"
+      ],
+      "children": []
+     },
+     {
+      "title": "/s/ Ernst & Young LLP",
+      "depth": 2,
+      "char": [
+       54830,
+       54950
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+      "depth": 2,
+      "char": [
+       54950,
+       55006
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "ANALOG DEVICES, INC.",
+      "depth": 2,
+      "char": [
+       55006,
+       55031
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "CONSOLIDATED STATEMENTS OF INCOME Years ended November 2, 2024, October 28, 2023 and October 29, 2022",
+      "depth": 2,
+      "char": [
+       55031,
+       56632
+      ],
+      "pieces": [
+       "1.26",
+       "1.27"
+      ],
+      "children": []
+     },
+     {
+      "title": "ANALOG DEVICES, INC.",
+      "depth": 2,
+      "char": [
+       56632,
+       56657
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME Years ended November 2, 2024, October 28, 2023 and October 29, 2022",
+      "depth": 2,
+      "char": [
+       56657,
+       57804
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "ANALOG DEVICES, INC.",
+      "depth": 2,
+      "char": [
+       57804,
+       57829
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "CONSOLIDATED BALANCE SHEETS November 2, 2024 and October 28, 2023",
+      "depth": 2,
+      "char": [
+       57829,
+       59933
+      ],
+      "pieces": [
+       "1.28",
+       "1.29"
+      ],
+      "children": []
+     },
+     {
+      "title": "ANALOG DEVICES, INC.",
+      "depth": 2,
+      "char": [
+       59933,
+       59958
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY Years ended November 2, 2024, October 28, 2023 and October 29, 2022",
+      "depth": 2,
+      "char": [
+       59958,
+       61676
+      ],
+      "pieces": [
+       "1.30"
+      ],
+      "children": []
+     },
+     {
+      "title": "ANALOG DEVICES, INC.",
+      "depth": 2,
+      "char": [
+       61676,
+       61701
+      ],
+      "pieces": [
+       "1.31"
+      ],
+      "children": []
+     },
+     {
+      "title": "CONSOLIDATED STATEMENTS OF CASH FLOWS",
+      "depth": 2,
+      "char": [
+       61701,
+       61743
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Years ended November 2, 2024, October 28, 2023 and October 29, 2022",
+      "depth": 2,
+      "char": [
+       61743,
+       64550
+      ],
+      "pieces": [
+       "1.32"
+      ],
+      "children": []
+     },
+     {
+      "title": "1. Description of Business",
+      "depth": 2,
+      "char": [
+       64550,
+       65782
+      ],
+      "pieces": [
+       "1.33"
+      ],
+      "children": []
+     },
+     {
+      "title": "2. Summary of Significant Accounting Policies",
+      "depth": 2,
+      "char": [
+       65782,
+       65832
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "a. Principles of Consolidation",
+      "depth": 2,
+      "char": [
+       65832,
+       67133
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "b. Cash, Cash Equivalents and Short-term Investments",
+      "depth": 2,
+      "char": [
+       67133,
+       69171
+      ],
+      "pieces": [
+       "1.34"
+      ],
+      "children": []
+     },
+     {
+      "title": "ANALOG DEVICES, INC.",
+      "depth": 2,
+      "char": [
+       69171,
+       69196
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS",
+      "depth": 2,
+      "char": [
+       69196,
+       69243
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Years ended November 2, 2024, October 28, 2023 and October 29, 2022",
+      "depth": 2,
+      "char": [
+       69243,
+       69376
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "ANALOG DEVICES, INC.",
+      "depth": 2,
+      "char": [
+       69376,
+       69401
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)",
+      "depth": 2,
+      "char": [
+       69401,
+       70429
+      ],
+      "pieces": [
+       "1.35"
+      ],
+      "children": []
+     },
+     {
+      "title": "c. Supplemental Cash Flow Statement Information",
+      "depth": 2,
+      "char": [
+       70429,
+       70657
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "d. Inventories",
+      "depth": 2,
+      "char": [
+       70657,
+       71880
+      ],
+      "pieces": [
+       "1.36"
+      ],
+      "children": []
+     },
+     {
+      "title": "ANALOG DEVICES, INC.",
+      "depth": 2,
+      "char": [
+       71880,
+       71905
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)",
+      "depth": 2,
+      "char": [
+       71905,
+       71966
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "e. Property, Plant and Equipment",
+      "depth": 2,
+      "char": [
+       71966,
+       75574
+      ],
+      "pieces": [
+       "1.37"
+      ],
+      "children": []
+     },
+     {
+      "title": "ANALOG DEVICES, INC.",
+      "depth": 2,
+      "char": [
+       75574,
+       75599
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)",
+      "depth": 2,
+      "char": [
+       75599,
+       75660
+      ],
+      "pieces": [
+       "1.38"
+      ],
+      "children": []
+     },
+     {
+      "title": "f. Goodwill and Intangible Assets",
+      "depth": 2,
+      "char": [
+       75660,
+       75698
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "Goodwill",
+      "depth": 2,
+      "char": [
+       75698,
+       80514
+      ],
+      "pieces": [
+       "1.39"
+      ],
+      "children": []
+     },
+     {
+      "title": "Intangible Assets",
+      "depth": 2,
+      "char": [
+       80514,
+       82668
+      ],
+      "pieces": [
+       "1.40",
+       "1.41"
+      ],
+      "children": []
+     },
+     {
+      "title": "g. Grant Accounting",
+      "depth": 2,
+      "char": [
+       82668,
+       83994
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "h. Translation of Foreign Currencies",
+      "depth": 2,
+      "char": [
+       83994,
+       84662
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "ANALOG DEVICES, INC.",
+      "depth": 2,
+      "char": [
+       84662,
+       84687
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)",
+      "depth": 2,
+      "char": [
+       84687,
+       84748
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "ANALOG DEVICES, INC.",
+      "depth": 2,
+      "char": [
+       84748,
+       84773
+      ],
+      "pieces": [],
+      "children": []
+     },
+     {
+      "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)",
+      "depth": 2,
+      "char": [
+       84773,
+       84833
+      ],
+      "pieces": [],
+      "children": []
+     }
+    ]
+   }
+  }
+ ]
+}

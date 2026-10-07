@@ -1,0 +1,694 @@
+{
+ "questions": [
+  {
+   "id": "ex2-q1",
+   "question": "What were Home Depot's diluted earnings per share for fiscal 2023, and how did that compare with fiscal 2022?"
+  },
+  {
+   "id": "ex2-q2",
+   "question": "How much did Home Depot spend on capital expenditures in fiscal 2023, according to the cash flow statement?"
+  },
+  {
+   "id": "ex2-q3",
+   "question": "How does Home Depot value most of its merchandise inventories, and roughly what share of inventories is valued using a cost method (such as first-in, first-out) instead?"
+  },
+  {
+   "id": "ex2-q4",
+   "question": "How many retail stores did Home Depot operate at the end of fiscal 2023?"
+  }
+ ],
+ "judges": [
+  {
+   "labels": [
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.1",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.2",
+     "useful": "yes",
+     "relevance": 50,
+     "keep": "part",
+     "needed_lines": [
+      "## THE HOME DEPOT, INC. CONSOLIDATED STATEMENTS OF EARNINGS",
+      "| in millions, except per share data | Fiscal 2023 | Fiscal 2022 | Fiscal 2021 |"
+     ]
+    },
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.3",
+     "useful": "yes",
+     "relevance": 100,
+     "keep": "part",
+     "needed_lines": [
+      "| Diluted earnings per share | $ 15.11 | $ 16.69 | $ 15.53 |"
+     ]
+    },
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.4",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.5",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.6",
+     "useful": "no",
+     "relevance": 10,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.7",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.8",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.9",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.10",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.1",
+     "useful": "no",
+     "relevance": 10,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.2",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.3",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.4",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.5",
+     "useful": "yes",
+     "relevance": 100,
+     "keep": "part",
+     "needed_lines": [
+      "## THE HOME DEPOT, INC. CONSOLIDATED STATEMENTS OF CASH FLOWS",
+      "| in millions | Fiscal 2023 | Fiscal 2022 | Fiscal 2021 |",
+      "| Capital expenditures | (3,226) | (3,119) | (2,566) |"
+     ]
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.6",
+     "useful": "no",
+     "relevance": 20,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.7",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.8",
+     "useful": "no",
+     "relevance": 10,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.9",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.10",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.1",
+     "useful": "no",
+     "relevance": 20,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.2",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.3",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.4",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.5",
+     "useful": "no",
+     "relevance": 10,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.6",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.7",
+     "useful": "yes",
+     "relevance": 100,
+     "keep": "part",
+     "needed_lines": [
+      "## Merchandise Inventories",
+      "Inventory cost includes the amount we pay to acquire inventory, including freight and import costs, as well as operating costs and depreciation associated with our sourcing and distribution network, and is net of certain vendor allowances. The majority of our merchandise inventories are stated at the lower of cost or market, as determined by the retail inventory method, which is based on a number of factors such as markups, markdowns, and inventory losses (or shrink). As the inventory retail value is adjusted regularly to reflect market conditions, inventory valued using the retail method approximates the lower of cost or market. Certain subsidiaries, including retail operations in Canada and Mexico, and distribution centers, record merchandise inventories at the lower of cost or net realizable value, as determined by a cost method, primarily the first-in, first-out method. These merchandise inventories represent approximately 38% of the total merchandise inventories balance. We evaluate the inventory valued using a cost method at the end of each quarter to ensure that it is carried at the lower of cost or net realizable value, and the adjustments recorded to merchandise inventories valued under a cost method were not material to our consolidated financial statements at the end of fiscal 2023 or fiscal 2022."
+     ]
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.8",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.9",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.10",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.1",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.2",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.3",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.4",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.5",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.6",
+     "useful": "no",
+     "relevance": 20,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.7",
+     "useful": "no",
+     "relevance": 10,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.8",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.9",
+     "useful": "no",
+     "relevance": 10,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.10",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    }
+   ]
+  },
+  {
+   "labels": [
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.1",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.2",
+     "useful": "yes",
+     "relevance": 50,
+     "keep": "part",
+     "needed_lines": [
+      "## THE HOME DEPOT, INC. CONSOLIDATED STATEMENTS OF EARNINGS",
+      "| in millions, except per share data | Fiscal 2023 | Fiscal 2022 | Fiscal 2021 |"
+     ]
+    },
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.3",
+     "useful": "yes",
+     "relevance": 100,
+     "keep": "part",
+     "needed_lines": [
+      "| Diluted earnings per share | $ 15.11 | $ 16.69 | $ 15.53 |"
+     ]
+    },
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.4",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.5",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.6",
+     "useful": "no",
+     "relevance": 20,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.7",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.8",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.9",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q1",
+     "anchor": "1.10",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.1",
+     "useful": "no",
+     "relevance": 10,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.2",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.3",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.4",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.5",
+     "useful": "yes",
+     "relevance": 100,
+     "keep": "part",
+     "needed_lines": [
+      "## THE HOME DEPOT, INC. CONSOLIDATED STATEMENTS OF CASH FLOWS",
+      "| in millions | Fiscal 2023 | Fiscal 2022 | Fiscal 2021 |",
+      "| Capital expenditures | (3,226) | (3,119) | (2,566) |"
+     ]
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.6",
+     "useful": "no",
+     "relevance": 20,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.7",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.8",
+     "useful": "no",
+     "relevance": 10,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.9",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q2",
+     "anchor": "1.10",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.1",
+     "useful": "no",
+     "relevance": 20,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.2",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.3",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.4",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.5",
+     "useful": "no",
+     "relevance": 10,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.6",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.7",
+     "useful": "yes",
+     "relevance": 100,
+     "keep": "part",
+     "needed_lines": [
+      "## Merchandise Inventories",
+      "Inventory cost includes the amount we pay to acquire inventory, including freight and import costs, as well as operating costs and depreciation associated with our sourcing and distribution network, and is net of certain vendor allowances. The majority of our merchandise inventories are stated at the lower of cost or market, as determined by the retail inventory method, which is based on a number of factors such as markups, markdowns, and inventory losses (or shrink). As the inventory retail value is adjusted regularly to reflect market conditions, inventory valued using the retail method approximates the lower of cost or market. Certain subsidiaries, including retail operations in Canada and Mexico, and distribution centers, record merchandise inventories at the lower of cost or net realizable value, as determined by a cost method, primarily the first-in, first-out method. These merchandise inventories represent approximately 38% of the total merchandise inventories balance. We evaluate the inventory valued using a cost method at the end of each quarter to ensure that it is carried at the lower of cost or net realizable value, and the adjustments recorded to merchandise inventories valued under a cost method were not material to our consolidated financial statements at the end of fiscal 2023 or fiscal 2022."
+     ]
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.8",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.9",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q3",
+     "anchor": "1.10",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.1",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.2",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.3",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.4",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.5",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.6",
+     "useful": "no",
+     "relevance": 20,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.7",
+     "useful": "no",
+     "relevance": 10,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.8",
+     "useful": "no",
+     "relevance": 10,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.9",
+     "useful": "no",
+     "relevance": 10,
+     "keep": "none",
+     "needed_lines": []
+    },
+    {
+     "question_id": "ex2-q4",
+     "anchor": "1.10",
+     "useful": "no",
+     "relevance": 0,
+     "keep": "none",
+     "needed_lines": []
+    }
+   ]
+  }
+ ]
+}

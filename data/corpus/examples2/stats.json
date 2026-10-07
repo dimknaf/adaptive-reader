@@ -1,0 +1,27 @@
+{
+ "bundle": "examples2",
+ "docs": 1,
+ "pieces": 10,
+ "tokens": 4619,
+ "piece_tokens": {
+  "min": 87,
+  "median": 530.5,
+  "max": 572
+ },
+ "mean_pad": 4.7,
+ "config": {
+  "min_tokens": 350,
+  "max_tokens": 600,
+  "target_tokens": 500,
+  "long_line": 250,
+  "hard_cut": 600,
+  "block": 16
+ },
+ "units": {
+  "heading": 17,
+  "blank": 35,
+  "row": 139,
+  "line": 28,
+  "sentence": 0
+ }
+}

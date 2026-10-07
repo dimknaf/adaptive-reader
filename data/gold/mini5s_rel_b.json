@@ -1,0 +1,288 @@
+{
+ "answers": [
+  {
+   "id": "mini5s-r1",
+   "covered": true,
+   "key_points": [
+    {
+     "point": "Net income fell from $3,314.6M (FY2023) to $1,635.3M (FY2024), down about 51%. Diluted EPS fell from $6.55 to $3.28 and basic EPS from $6.60 to $3.30.",
+     "anchors": [
+      "1.1",
+      "1.2"
+     ]
+    },
+    {
+     "point": "The main driver was revenue, which fell about 23% from $12,305.5M to $9,427.2M. Cost of sales fell much less ($4,428.3M to $4,045.8M), so gross margin dropped from $7,877.2M to $5,381.3M (about 64% to 57% of revenue) and operating income fell from $3,823.1M to $2,032.8M.",
+     "anchors": [
+      "1.1"
+     ]
+    },
+    {
+     "point": "Non-operating items added to the decline. Interest expense rose from $264.6M to $322.2M and Other, net swung from $8.2M of income to $12.0M of expense. Higher interest income ($78.8M vs $41.3M) partly offset this. Total non-operating expense rose from $215.1M to $255.5M, and pre-tax income fell from $3,608.0M to $1,777.3M.",
+     "anchors": [
+      "1.1"
+     ]
+    },
+    {
+     "point": "Partial offsets: total operating expenses fell from $4,054.1M to $3,348.5M. R&D fell from $1,660.2M to $1,487.9M, SMG&A from $1,273.6M to $1,068.6M, amortization of intangibles from $959.6M to $754.8M and special charges from $160.7M to $37.3M. Total intangibles amortization in the cash flow statement also fell, from $1,958.4M to $1,741.5M. The tax provision fell from $293.4M to $142.1M, although the effective rate stayed about 8% in both years.",
+     "anchors": [
+      "1.1",
+      "1.6"
+     ]
+    },
+    {
+     "point": "Period comparability: FY2024 was a 53-week year and FY2023 was a 52-week year. The extra week falls in the first quarter ended February 3, 2024. So FY2024 has one more week of operations, and the decline happened despite that extra week.",
+     "anchors": [
+      "1.9"
+     ]
+    }
+   ],
+   "pieces": [
+    {
+     "anchor": "1.1",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.2",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.3",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.4",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.5",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.6",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.7",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.8",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.9",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.10",
+     "label": "not_relevant"
+    }
+   ]
+  },
+  {
+   "id": "mini5s-r2",
+   "covered": true,
+   "key_points": [
+    {
+     "point": "Debt balances at year end: long-term debt rose to $6,634.3M from $5,902.5M. Current debt fell to $399.6M from $499.1M. Commercial paper notes were roughly flat at $547.7M vs $547.2M. Total debt was about $7.58B vs about $6.95B.",
+     "anchors": [
+      "1.3"
+     ]
+    },
+    {
+     "point": "New borrowing and repayments: in FY2024 the company raised $1,087.9M of debt and repaid $500.0M, which matches the roughly $499M of current debt at the end of FY2023. In FY2023 it raised no new debt and made no scheduled repayments; it only terminated $65.7M of debt early. The revolver was not used in either year (it was drawn and repaid $400M only in FY2022).",
+     "anchors": [
+      "1.7"
+     ]
+    },
+    {
+     "point": "Commercial paper: in FY2024 the company issued $10,184.4M and repaid $10,183.9M, so net CP was flat and the balance stayed about $548M. In FY2023 it issued $5,287.1M and repaid $4,739.9M, a net addition of about $547M, which built the CP balance from nothing in FY2022.",
+     "anchors": [
+      "1.7",
+      "1.3"
+     ]
+    },
+    {
+     "point": "Interest cost: interest expense rose to $322.2M in FY2024 from $264.6M in FY2023 ($200.4M in FY2022). Interest income rose to $78.8M from $41.3M.",
+     "anchors": [
+      "1.1"
+     ]
+    }
+   ],
+   "pieces": [
+    {
+     "anchor": "1.1",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.2",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.3",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.4",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.5",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.6",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.7",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.8",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.9",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.10",
+     "label": "not_relevant"
+    }
+   ]
+  },
+  {
+   "id": "mini5s-r3",
+   "covered": true,
+   "key_points": [
+    {
+     "point": "Free cash flow: FY2024 operating cash flow of $3,852.5M minus capex of $730.5M gives about $3,122M. FY2023 operating cash flow of $4,817.6M minus capex of $1,261.5M gives about $3,556M.",
+     "anchors": [
+      "1.7"
+     ]
+    },
+    {
+     "point": "Shareholder returns: FY2024 dividends of $1,795.5M ($3.62/share) plus buybacks of $615.6M total about $2,411M. FY2023 dividends of $1,679.1M ($3.34/share) plus buybacks of $2,964.0M total about $4,643M.",
+     "anchors": [
+      "1.8",
+      "1.5"
+     ]
+    },
+    {
+     "point": "Coverage: in FY2024 free cash flow covered dividends and buybacks with a surplus of about $711M (about 1.3x). In FY2023 it fell short by about $1,087M (about 0.77x). The swing came mainly from much smaller buybacks and lower capex, even though operating cash flow was lower.",
+     "anchors": [
+      "1.7",
+      "1.8"
+     ]
+    },
+    {
+     "point": "Where the FY2024 surplus went: together with net new term debt of about $588M ($1,087.9M raised minus $500.0M repaid; commercial paper net flat), it shows up as cash rising $1,033.3M to $1,991.3M and about $370M of net short-term investment purchases ($371.8M balance). Long-term debt rose to $6,634.3M.",
+     "anchors": [
+      "1.7",
+      "1.8",
+      "1.3"
+     ]
+    },
+    {
+     "point": "How the FY2023 shortfall was funded: net commercial paper borrowing of about $547M ($5,287.1M issued minus $4,739.9M repaid) plus a $512.5M drawdown of cash, which fell from $1,470.6M to $958.1M.",
+     "anchors": [
+      "1.7",
+      "1.8",
+      "1.3"
+     ]
+    }
+   ],
+   "pieces": [
+    {
+     "anchor": "1.1",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.2",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.3",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.4",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.5",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.6",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.7",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.8",
+     "label": "essential"
+    },
+    {
+     "anchor": "1.9",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.10",
+     "label": "not_relevant"
+    }
+   ]
+  },
+  {
+   "id": "mini5s-r4",
+   "covered": false,
+   "key_points": [],
+   "pieces": [
+    {
+     "anchor": "1.1",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.2",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.3",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.4",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.5",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.6",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.7",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.8",
+     "label": "supporting"
+    },
+    {
+     "anchor": "1.9",
+     "label": "not_relevant"
+    },
+    {
+     "anchor": "1.10",
+     "label": "not_relevant"
+    }
+   ]
+  }
+ ]
+}

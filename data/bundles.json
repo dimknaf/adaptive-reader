@@ -1,0 +1,92 @@
+{
+ "mini3k": {
+  "adapter": "markdown",
+  "note": "Analog Devices FY2024 10-K, start of Item 7 (MD&A): development document",
+  "docs": [
+   {
+    "path": "sources/adi-10k-fy2024.md",
+    "sha256": "5ca725b6b6b3299cf8910620cf4846685e37b8432085e98a621bb717bcf895c7",
+    "lines": [
+     1225,
+     1367
+    ],
+    "source": "Analog Devices, Inc., annual report on Form 10-K for fiscal year 2024 (public SEC filing)"
+   }
+  ]
+ },
+ "mini5k": {
+  "adapter": "markdown",
+  "note": "Analog Devices FY2024 10-K, Item 7 from its start into liquidity: development document",
+  "docs": [
+   {
+    "path": "sources/adi-10k-fy2024.md",
+    "sha256": "5ca725b6b6b3299cf8910620cf4846685e37b8432085e98a621bb717bcf895c7",
+    "lines": [
+     1225,
+     1451
+    ],
+    "source": "Analog Devices, Inc., annual report on Form 10-K for fiscal year 2024 (public SEC filing)"
+   }
+  ]
+ },
+ "examples": {
+  "adapter": "markdown",
+  "note": "Home Depot FY2023 10-K, Item 7 (MD&A) through income taxes: worked examples only, never evaluated",
+  "docs": [
+   {
+    "path": "sources/hd-10k-fy2023.md",
+    "sha256": "816beec3cae5c05eee34dc1a8138c4b435a6f5a7e9591f0204cfe81985dcbecb",
+    "lines": [
+     957,
+     1106
+    ],
+    "source": "The Home Depot, Inc., annual report on Form 10-K for fiscal year 2023 (public SEC filing)"
+   }
+  ]
+ },
+ "mini20k": {
+  "adapter": "markdown",
+  "note": "Analog Devices FY2024 10-K, Item 7 through notes a-h of the financial statements: development document",
+  "docs": [
+   {
+    "path": "sources/adi-10k-fy2024.md",
+    "sha256": "5ca725b6b6b3299cf8910620cf4846685e37b8432085e98a621bb717bcf895c7",
+    "lines": [
+     1225,
+     2065
+    ],
+    "source": "Analog Devices, Inc., annual report on Form 10-K for fiscal year 2024 (public SEC filing)"
+   }
+  ]
+ },
+ "examples2": {
+  "adapter": "markdown",
+  "note": "Home Depot FY2023 10-K: financial statements and accounting-policy notes; worked examples only, never evaluated",
+  "docs": [
+   {
+    "path": "sources/hd-10k-fy2023.md",
+    "sha256": "816beec3cae5c05eee34dc1a8138c4b435a6f5a7e9591f0204cfe81985dcbecb",
+    "lines": [
+     1288,
+     1558
+    ],
+    "source": "The Home Depot, Inc., annual report on Form 10-K for fiscal year 2023 (public SEC filing)"
+   }
+  ]
+ },
+ "mini5s": {
+  "adapter": "markdown",
+  "note": "Analog Devices FY2024 10-K: financial statements and the first accounting-policy notes (small experiment on statement/note text): development document",
+  "docs": [
+   {
+    "path": "sources/adi-10k-fy2024.md",
+    "sha256": "5ca725b6b6b3299cf8910620cf4846685e37b8432085e98a621bb717bcf895c7",
+    "lines": [
+     1673,
+     1900
+    ],
+    "source": "Analog Devices, Inc., annual report on Form 10-K for fiscal year 2024 (public SEC filing)"
+   }
+  ]
+ }
+}
